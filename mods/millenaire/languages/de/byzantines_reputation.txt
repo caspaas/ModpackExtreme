@@ -1,0 +1,10 @@
+0;Fremder;Als Händlervolk, akzeptieren wir jeden, ohne jedoch unser Vertrauen zu gewähren.
+4*64;Bekanntes Gesicht;Letzten Endes sieht man Sie oft in diesem Römischen Viertel.
+16*64;Regulärer Besucher;Xaire, $name! Schön dich wiederzusehen. Wie geht es dir ?
+64*64;Beliebtester Händler;Alle hier sind froh dich wiederzusehen. Was hast du zum Handeln mitgebracht ?
+2*64*64;Freund des Dorfes;Du bist Teil dieses Dorfes $name, wir vertrauen dir jetzt !
+8*64*64;Einer von uns;Wir sehen dich jetzt als Römischer Bürger an. Vielleicht bist du nicht unter uns geboren, aber du kannst stolz sein ein echter Römer genannt zu werden.
+32*64*64;Potentieller Anführer;$name, du hast das Vertrauen und den Respekt der Byzantiner gewonnen. Sie werden dir überall hin folgen..
+-64;Plagegeist;Sie sind nicht sehr freundlich. Achten sie darauf, wo Sie hingehen.
+-4*64;Unbeliebter Außenseiter;Wir akzeptieren Händler, aber nicht Ihre Art. Seien Sie gewarnt.
+-16*64;Feind;Es beschämt das gesamte Römische Reich Sie leben zu lassen. Wenn Sie Wert auf Ihr Leben geben, verlassen Sie das römische Territorium und kommen Sie nie wieder.

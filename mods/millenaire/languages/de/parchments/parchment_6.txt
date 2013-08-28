@@ -1,0 +1,43 @@
+version:1.1.4
+Millénaire: Indische Gebäude
+
+Dorfzentren
+
+Mukhiya ka Ghar: Haus des Anführers. Das Haus aus Lehmziegeln beherbergt den Dorfchef und dessen Frau und dient gleichzeitig als Dorfzentrum. Die vielen Truhen schaffen Platz für die grosszügigen "Zuwendungen" der Dorfbewohner.
+
+Qila: Fort. Dieser kleine Ziegelturm kann vom Rajput-General, der dort wohnt, zu einer mächtigen Festung ausgebaut gelassen werden. Es dient zur Überwachung des umliegenden Gebietes und zur zentralen Verwaltung des Eigentums der Bauern. 
+
+NEW_PAGE
+Bewohnte Gebäude
+
+Kisan ka Ghar: Bauernhaus. Ein einfaches Gebäude aus sonnengetrockneten Lehmziegeln. Dieses bescheidene Häuschen kann um einen Hühnerstall und eine Terrasse für die Entspannung erweitert werden.
+
+Lakarhara ka Ghar: Holzfällerhütte. Aus seinem eigenen Holz gebaut und mit gekochten Ziegeln verbessert, wird dieses Haus mit der Zeit immer schöner.
+
+Sikaar: Steinbruch. Ein einfaches Loch in tiefen Stein geschlagen dient dem Bergarbeiter zum Abbau von Steinen und Sandstein.
+
+Bhati: Schmiede. Die täglich genutzten Werkzeuge der Dorfbewohner werden hier vom Schmied geschmiedet. Sein geliebter Amboss liegt ihm fast genauso sehr am Herzen wie seine Frau.
+
+Sena ka Bhati: Militärschmiede. In diesem Rüsthaus aus Sandstein findet man Schwerter, Rüstungen und einen Schmied, der sie herstellt.
+
+Muurtikaar ka Ghar: Bildhauerwerkstatt. Dieses kleine Haus hat eine kleine Werkstatt angebaut, in welcher der Bildhauer nackten Stein und Sandstein in wunderschöne Statuen der Hindigottheiten verwandelt.
+
+Sainik ka Ghar: Soldatenhaus. Diese aus solidem Stein erbaute Häuschen wird von einem bissigen Rajputsoldaten und dessen Frau bewohnt.
+
+Pandit ka Ghar: Priesterhaus. Dieses wunderschöne Haus, viel vornehmer als das der Bauern, behergergt einen Priester mit dessen Frau, einer untätiger als der andere.
+NEW_PAGE
+Unbewohnte Gebäude:
+
+Inta bhatta: Ziegelbrennerei. Dieses Gebäude ist unerlässlich für jedes indische Dorf. Hier werden Lehmziegel gefertigt, die anschließend in der Sonne trocknen und, sofern ein Ofen angebaut wurde, gebrannt werden.
+
+Kunja: Hain. Als wichtigste Holzquelle für die Bewohner werden die Haine sorgfältig von Holzfällern gehütet. Der fruchtbare Boden und die sorgfältige Pflege der Holzfäller lässt die Bäume schneller wachsen.
+
+Puraalekhagar: Tempelarchiv. An diesem Ort verwahren der Priester und dessen Frau sämtliche Lästereien und geheimen Informationen der Bewohner des Dorfes.
+
+Dhaan: Reisfeld. Reis, wichtiges Grundzutat für fast alle Speisen - welche gute Küche kommt ohne Reis aus?
+
+Masaalaa udyaana: Kräutergarten. Hier wächst der Gelbwurz unter sorgfältiger Aufscht der Bäuerinnen - und das muss er auch, denn die Mahlzeiten wären ohne ihn wirklich fade!
+
+Gannaa baagaana: Zuckerrohrplantage. Ohne Sirup ist Rasgulla undenkbar, und es gibt keinen besseren Ausdruck der Zuneigung unter den Dorfbewohnern als Rasgulla.
+
+Gaanv ka Mandir: Dorftempel. Dieses ansehnliche Gebäude ist ein Beweis für den Glauben und die Frömmigkeit der Dorfbewohner, oder für den Einfluss der Priester auf sie. Drei exzellent vom Bildhauer herausgearbeitete Statuen zieren die Wände des Tempels.

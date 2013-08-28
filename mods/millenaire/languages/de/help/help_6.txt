@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Erstellen von Dörfern
+
+Du kannst einen Dorftyp deiner Wahl an einem Ort deiner Wahl mit einem Gründungsstab erstellen. Dieses Objekt kannst du in jedem Dorf kaufen, wenn du einen ausreichend hohen Ruf hast. Um den Zauberstab zu verwenden, lege einen Goldblock dahin wo du das Dorf platzieren möchtest und rechtsklicke den Goldblock mit dem Stab. Im nächsten Fenster kannst du die gewünschte Art des Dorfes zu wählen.
+
+<darkblue>Zerstörung eines Dorfers oder alleinstehenden Gebäudes
+
+Die Bewohner eines Dorfes oder Gebäudes werden jede Nacht wiederbelebt, auch wenn du alle Gebäude im Dorf plättest. Um das zu verhindern (z.B. wenn du das Gebäude selbst besetzen willst), musst du den <darkblue>Zerstörungsstab<Schwarz> benutzen: Du wirst ihn in den Truhen des Haupgebäudes finden, wenn alle Bewohner tot sind. Bitte beachte, dass die Zerstörung eines Dorfes irreversibel ist!
+
+<darkblue>Spielerkontrollierte Dörfer
+
+Es ist möglich ein Dorf mit dir als Führer zu erstellen, in dem du die Standorte der Gebäude selbst festlegen kannst. Um das zu tun, musst du entweder anerkannter Führer der Zivilisation des Dorfes sein, oder die Schöpfungsquest abgeschlossen haben (siehe "Quests" Abschnitt), oder du hast deinen Ruf auf "Potentieller Anführer" gesteigert und sprichst mit dem Anführer der Zivilisation. Du siehst dann eine Option im Menü des Gründungsstabes um spielerkontrollierte Dörfer zu erschaffen.
+
+In spielerkontrollierten Dörfern kannst du die Konstruktion eines neuen Gebäudes beauftragen, in dem du den Stab an der gewünschten Position benutzt. Danach erscheint ein Menü, in dem du das gewünschte Gebäude auswählen kannst. Du kannst auch Verbesserungen an bestehenden Gebäuden über die "Projekte"-Menüs erlauben oder stoppen. In diesen Dörfern ist es unnötig Rohstoffe mit den Dorfbewohnern zu handeln - platziere die Sachen einfach in den Truhen!

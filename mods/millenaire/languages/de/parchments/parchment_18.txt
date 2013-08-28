@@ -1,0 +1,38 @@
+version:3.1.7
+Millénaire: Japanische Objekte
+
+Denier. Als die Japaner zu diesem neuen Land kamen haben sie ihre Währung zum Denier geändert. Es gibt ihn mit 3 verschiedenen Werten: Denier (Bronze), Denier Argent (Silber) im Wert von 64 normalen Deniers, und Denier Or (Gold) im Wert von 64 silbernen.
+NEW_PAGE
+Speisen und Getränke
+
+Reis. Mild und fade, aber die Japaner ernten es als ob es kein Morgen gäbe. Wenn die Japaner Reis in ihren Kästen haben, haben sie mehr Kinder. Reis wird auch zur Herstellung von Papier verwendet.
+
+Udon. Diese mysteriöse Speise wird von den Japanern in ihrer Küche gemacht.
+NEW_PAGE
+Werkzeuge & Waffen
+
+Tachi-Schwert. Dieses Schwert richtet denselben Schaden wie das Eisenschwert an, macht jedoch kritische Treffer mit 3-fachen Schaden. Es ist nützlich um zähe Feinde zu schwächen.
+
+Yumi-Bogen. Größer als der englische Langbogen. Damit war und ist der Yumi-Bogen der größte Bogen in der Geschichte, mit einigen Exemplaren die 2,2 Meter lang sind. Dieser Bogen schießt weiter und schneller, was eine höhere Genauigkeit über weite Entfernungen bietet. Er lässt sich auch schneller nachladen und richtet mehr Schaden als ein normaler Bogen an.
+
+Keiko-Rüstung. Das ist die Soldatenrüstung. Sie entspricht einem Kettenpanzer mit eingearbeitetem Leder. Die Rüstung ist so wiederstandsfähig wie Eisenrüstung und ist haltbarer. Sie wird aus Eisen und Leder gefertigt.
+
+O-Yoroi-Rüstung. Diese Rüstung kommt in zwei Designs: ein Rotes Design und ein Blaues. Die Rüstung ist stärker als die Eisenrüstung und so haltbar wie Diamantrüstung. Die Anführer des Dorfes tragen diese Rüstung.
+NEW_PAGE
+Konstruktion & Dekoration
+
+Stroh. Stroh wird aus Weizen gemacht und wird für die Dächer von Gebäuden verwendet. Es ist auch ziemlich bequem darauf zu schlafen.
+
+Papierwand. Das ist ein dünnes Laken aus Papier, welches durch vier Stöcke aufgespannt wird. Licht kann durchscheinen, aber man kann nicht durchsehen. Papierwände werden zur Dekoration von Gebäuden verwendet. Sie werden aus Papier gefertigt, und das Papier wiederum wird aus Reis gemacht.
+
+Holzrahmen. Die Japaner verwenden Holzrahmen für einfache Fassaden oder Kreuze für ihre Gebäude. Sie werden aus Dreck und dunklem Holz gemacht.
+New_PAGE
+Pergamentrollen
+
+Japanische Dorfbewohner. Ein Pergament über die verschiedenen Arten von japanischen Dorfbewohnern, die dich wahrscheinlich töten, falls du einen von ihnen anfässt.
+
+Japanische Gebäude. Eine Beschreibung der verschiedenen Gebäude, die im Dorf zu sehen sein können und die von den Dorfbewohnern erbaut werden können.
+
+Japanische Objekte. Das Pergament was du gerade liest.
+
+Komplette japanische Schriftrolle. Der Inhalt der oberen 3 Pergamente in einer handlichen, leichter zu trasportierenden Schriftrolle zusammengefasst.

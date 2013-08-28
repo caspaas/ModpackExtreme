@@ -1,0 +1,55 @@
+version:1.1.4
+Millénaire: Normannische Objekte
+
+Denar: Die Mittelalterliche Währung gibt es in drei Münz-Größen: die einfache ist kupfern; die silberne (Argent) ist 64 kupferne wert und die goldene (Or) entspricht wiederum 64 silbernen.
+
+Cidre-Apfel: Dieser ansonsten unbrauchbare Apfel wird von Holzfällern gesammelt und für Cidre und Calvados weiterverarbeitet. Er kann zwar vom Spieler gekauft werden, aber wer kauft schon unnütze Äpfel?
+NEW_PAGE
+Speisen und Getränke
+
+Cidre: Normannischer Apfelwein, der aus Cidre-Äpfeln gewonnen wird. Diese Erfrischung heilt zwei Herzen und kann drei Mal benutzt werden.
+
+Calvados: Der Apfel-Branntwein heilt zwei Herzen und kann zehn Mal benutzt werden. Das Getränk wird in der Taverne aus Cidre gebrannt. Außerhalb von Millénaire sollte man diesen Schlüpferstürmer mit 45% Alkohol nur in kleinen Mengen genießen.
+
+Tripes: Diese berühmte, normannische Feinkost ist genau das Richtige nach einem anstrengenden Tag in der Kälte oder nach einem hohen (Minecraft-)Sturz. Die drei Portionen heilen je fünf Herzen. Als Tipp: Genieße ihn solange du nicht weißt, woraus er gemacht wird.
+
+Boudin Noir: Fast so gut wie Tripes. Sie kann ebenfalls drei Mal abgebissen werden, heilt dabei aber nur drei Herzen. Sie scheint eher von ahnungslosen Leuten genossen zu werden, die nicht wissen, woraus sie gemacht ist. Bei ihrer deutschen Verwandten, der Blutwurst, sieht man es schon am Namen. 
+NEW_PAGE
+Werkzeuge & Waffen
+
+Normannische Schaufel: Diese qualitativ hochwertige Schaufel ist so haltbar wie normale Eisenwerkzeuge, baut aber ebenso schnell ab wie eine goldene. Das Werkzeug der Wahl, wenn es um echte Grabungen geht. Zu erwerben in der Schmiede deines Vertrauens!
+
+Normannische Spitzhacke: Diese Spitzhacke baut Blöcke so schnell ab wie die goldene Version, ist aber so haltbar wie aus Eisen! Sie wurde extra für lange Bergbau-Expeditionen entwickelt! Ein kleiner Wermutstropfen bleibt, auch sie baut kein Obsidian ab.
+
+Normannische Axt: So schnell wie eine goldene, so haltbar wie eine eiserne! Mit diese Axt schlägst du Bäume wie ein Großer. Besonders in den Händen eines aggressiven Holzfällers kommt eine beachtliche Menge Holz zusammen.
+
+Normannische Hacke: An und für sich vergleichbar mit der Diamantversion, aber mit einem ungleich höherem Coolnessfaktor.
+
+Normannische Rüstung: Diese Rüstung ist 50% besser als die Diamantrüstung und lässt dich dabei bedrohlich aussehen. Wer lieber auf Kostümpartys geht, sollte zur diamantenen greifen.
+
+Normannisches Breitschwert: Teuer, sehr teuer sogar, aber wenn du damit einem starken Gegner gegenüberstehst, weißt du, es ist jeden Denar wert.
+NEW_PAGE
+Konstruktion & Dekoration
+Fachwerk: Dieses Verbund-Baumaterial besteht aus dunklen Holzbalken, die einen Kern aus Lehm und Erde stabilisieren. Es wird von Schreinern hergestellt und in Fachwerkhäusern verbaut oder einfach an Fremde verkauft.
+
+Normannischer Wandteppich: Handgefertigt von edlen Damen aus den Festungen, dekorieren diese prachtvollen Wandteppiche die prächtigsten Bankettsäle. Inspiriert von Wandteppichen aus Bayeux, zeigt er mit einer 15*3 grossen Abbildung die Flotte von Wilhelm, dem Eroberer, die nach England segelte.
+NEW_PAGE
+Amulette
+
+Amulett des Yggdrasil: Das Symbol Yggdrasils, der Weltenbaum der nordischen Mythologie, dessen Wurzeln bis in das tiefste Gestein reichen und dessen Äste den Himmel tragen, ist in das Amulett eingraviert und zeigt dir immer, wie tief oder hoch du dich grad befindest.
+
+Amulett des Raben: Normannische Priester sind zwar der Kirche loyal ergeben, doch die alten Traditionen und Bräuche sind nicht vergessen. Dieses Amulett ist Odin geweiht und warnt dich vor dämonischen Gefahren, indem es sich blutrot verfärbt. Nutzte es um den Kreaturen aus dem Weg zu gehen - oder um sie zu jagen!
+
+Amulett der Zwerge: Von den Wikingern aus dem hohen Norden mit gebracht und geformt wie Thors Hammer, führt dich dieses Amulett zu den Reichtümern der Erde.
+
+Amulett von Sköll und Hati: Mit der Kraft der beiden legendären Wölfe, die Sonne und Mond jagen, erhält der Träger die Macht, den Tag zur Nacht und die Nacht zum Tag zu machen. Doch seine Kraft ist nicht unbegrenzt.
+NEW_PAGE
+Pergamentrollen
+
+Normannische Bewohner: Beinhaltet Informationen über die verschiedenen normannischen Dorfbewohner.
+
+Normannische Gebäude: Ein Überblick über die normannischen Gebäude.
+
+Normannische Objekte: Eine Auflistung der normannischen Gegenstände in Millénaire.
+
+Die Normannen: Der ideale und zugleich praktische Fremdenführer für die Normandie. Er enthält den Inhalt aller drei Schriftrollen.

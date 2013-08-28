@@ -1,0 +1,50 @@
+version:3.1.7
+Millénaire: Japanische Gebäude
+
+Dorfzentren
+
+Shuudannoujou: Bauernhof. Das Zentrum eines Agrardorfes, in dem der Bauer und seine Frau lebt. Die Dorfbewohner bringen Getreide, Holz und Stein zum Shuudannoujou.
+
+Bousai: Burg. Dieses Gebäude nimmt den Shuken und seine Frau auf und kann in eine mächtige Festung mit Wällen und Wachtürmen ausgebaut werden.
+
+Kumonjo: Palast. Die Japaner bauen riesige Paläste, um ihren Dörfern einen Mittelpunkt zu geben. Der Aufseher und seine Frau wohnen hier, um Tag und Nacht auf das Dorf aufzupassen. Alle Baupläne für das Dorf werden hier angefertigt. Des Weiteren werden hier zusätzliche Pläne und Vorschläge umgesetzt.
+NEW_PAGE
+Bewohnte Gebäude
+
+Shoko: Archiv. Dieses Gebäude hat alle Informationen über die Bewohner im Dorf.
+
+Tansetsu: Armeeschmiede. Eine Tansetsu kann alle japanischen Millitärwaffen und Rüstungen produzieren. Damit kann das Tachi-Schwert, der tödliche Yumi-Bogen, sowie eine Vielfalt an japanischen Rüstungen hergestellt werden. Die Armeeschmiede benötigt einen Mann als Schmied, um die Waffen herzustellen, sowie eine Ehefrau, um sie zu verkaufen.
+
+Tansetsu: Schmiede. Das ist der Ort an dem Eisenwerkzeuge hergestellt und verkauft werden. Der Kajiya (Schmied) macht die Werkzeuge, die benötigt werden um andere Arbeiten schneller durchzuführen. Der Spieler kann hier auch Werkzeuge kaufen.
+
+Shugi Ie: Handwerkerhaus. Produziert und verkauft aus Reis gemachtes Papier. Es werden auch Papierwände, welche im Hauptgebäude verkauft werden, sowie Holzrahmen hergestellt.
+
+Gyogyo and Tsuribori: Fischerei. Der Ryoushi (Fischer) verbringt seine Zeit hier um Fisch für das Dorf zu fangen.
+
+Kodachi: Hain. Der japanische Kikori fällt Bäume hier.
+
+Shijin: Herberge. Hierhin kommen Händler und ruhen sich aus, nachdem sie von einem anderen Dorf hergereist sind um Waren zu transportieren.
+
+Daidokoro: Küche. Das ist der Ort, wo das Essen gekocht und Udon (japanische Nudeln) zubereitet werden. Es wird auch Huhn und Fisch verkauft.
+
+Kikori Koya: Holzfällerhaus. Das ist das Haus, in welchem der Holzfäller und seine Frau wohnen. Der Holzfäller hackt das Holz bringt es nach Hause, und seine Frau liefert es ins Dorfzentrum.
+
+Bourou: Beobachtungsturm. Der Beobachtungsturm ist mehr ein dekoratives Gebäude, das hauptsächlich am Rand des Dorfes gebaut wird. Aber der Hauptgrund, wofür er gebaut wird, ist, dass die Wächter die Feinde sehen können, die sich von fern nähern.
+
+Suiden: Reisfeld. Die Dorfbewohner bauen auf diesem Feld Reis an. Es wird von Bauern und Frauen kultiviert. Die Frauen bringen den Reis zum Zentrum, wo es vom Spieler gekauft werden kann.
+
+Buttou: Pagode. Das ist der Ort, wohin die Dorfbewohner kommen um zu beten. Hier lebt auch der Souryo (Mönch).
+
+Noufu Ie: Bauernhaus. Das ist das Haus, in dem der Bauer und seine Frau leben.
+
+Saisekijou: Steinbruch. Hier lebt der Koufu und seine Frau. Stein wird von hier abgebaut und zum Dorfzentrum geliefert.
+
+Heisha: Samuraihaus. In diesem Haus lebt ein Samurai oder eine Wache mit seiner Ehefrau.
+
+Noujou Nojo: Weizenfeld. Hier lebt der Landwirt und seine Ehefrau. Der Landwirt wird hier Weizen ernten und sähen.
+NEW_PAGE
+Dekorative Gebäude
+
+Ike: Teich. Eine dekorative Anlage, durch die man schön spazieren gehen kann.
+
+Torii: Torri (traditionelles japanisches Tor). Ein schönes Tor, zu welchem die Dorfbewohner kommen um zu beten.

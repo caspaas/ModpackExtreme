@@ -1,0 +1,44 @@
+culture.norman=Normannisch
+
+//Norman:
+villager.abbot=Abt
+villager.carpenter=Schreiner
+villager.cattleFarmerMale=Viehzüchter
+villager.cattleFarmerFemale=Viehzüchterin
+villager.boy=Junge
+villager.girl=Mädchen
+villager.teenagerMale=Jugendlicher
+villager.teenagerFemale=Jugendliche
+villager.farmer=Landwirt
+villager.merchant_viking=Nordischer Händler
+villager.merchant_weapon=Waffenhändler
+villager.merchant_plant=Pflanzenhändler
+villager.merchant_oriental=Orientalischer Händler
+villager.merchant_art=Byzantinischer Händler
+villager.merchant_wool=Niederländischer Händler
+villager.merchant_food=Lebensmittelhändler
+villager.guard=Wache
+villager.guildmaster=Gildenmeister
+villager.knight=Ritter
+villager.lady=Dame
+villager.lumberman=Holzfäller
+villager.merchant=Lokaler Händler
+villager.miner=Bergarbeiter
+villager.monk=Mönch
+villager.priest=Priester
+villager.seneschal=Seneschall
+villager.smith=Schmied
+villager.wife=Dorfbewohnerin
+
+villager.lonelumberman=Einsamer Holzfäller
+villager.lonelumbermantaiga=Einsamer Holzfäller
+villager.loneminer=Einsamer Bergarbeiter
+villager.lonemonk=Einsamer Mönch
+villager.loneabbot=Abt
+villager.alchemist=Alchemist
+villager.alchemistassistant=Assistent des Alchemisten
+villager.alchemistapprentice=Lehrling
+villager.bandit=Bandit
+villager.armoredbandit=Bewaffneter Bandit
+villager.felonbaron=Raubritter-Burgherr
+villager.felonsoldier=Raubritter

@@ -1,0 +1,58 @@
+version:1.1.4
+Millénaire: Normannische Gebäude
+
+Dorfzentren
+
+Fort: Festung. In militärischen Dörfern dient diese hölzerne Festung als Stadthalle. Ein Ritter und dessen Dame wohnen hier. Wenn genügend Stein vorhanden ist, werden die Dorfbewohner es zu einer mächtigen Festung ausbauen.
+
+Abbaye: Abtei. Religiöse Dorfbewohner siedeln sich um diesen Platz der Bildung und Demut an, wo ein Mönch unaufhörlich Manuskripte anfertigt, welche ordentlich in Bücherregalen verstaut werden. Hauptsächlich sollen hier aber umliegende Bauern ihren Zehnt an die heilige Kirche entrichten können. Der Lohn dafür erwartet sie in der nächsten Welt.
+
+Manoir: Herrenhaus. In der Mitte von landwirtschaftlichen Dörfern wird dieses Herrenhaus von einem Seneschall bewohnt, der sicherstellt, dass die Bauern ihre Steuern an den König bezahlen - und an ihn.
+
+Hall de la Guilde: Gildenhalle. Als Sinnbild für die Fähigkeiten seiner Erbauer dient dieses Gebäude als Hauptquartier für die lokalen Handwerker unter der Leitung eines glanzvollen Gildenmeisters.
+NEW_PAGE
+Bewohnte Häuser
+
+Armurerie: Rüsthaus. Wenn es von einem Schmied bewohnt wird, stellt dieser hier Kriegsausrüstung her.
+
+Elevage Bovin: Rinderzucht. Hier werden Kühe aufgezogen um aus ihnen Leder zu gewinnen und normannische Tripes zu kochen.
+
+Elevage Porcin: Schweinezucht. Sie dient der Aufzucht von Schweinen und der Weiterverarbeitung zu grossen Mengen Schweinefleisch und schmackhaften Boudin Noir.
+
+Elevage Ovin: Schafzucht. Schafe sollen hier Wolle geben. Ein kleiner abgezäunter Bereich beherbergt Hühner, dessen Eier und Federn ab gesammelt werden.
+
+Ferme: Farm. Bauernhof. Ein Hof mit Weizenfeldern, der die Bäckerei mit Korn beliefert.
+
+Forge:  Schmiede. Wenn sie von einem Schmied bewohnt wird, stellt dieses Gebäude das Produktionszentrum von normannischen Werkzeugen dar. Diese herausragenden Schmiedeobjekte können von Dorfbewohnern benutzt oder vom Spieler gekauft werden.
+
+Maison du garde: Haus der Wache. Bewohnt von einer Wache und dessen Frau.
+
+Hutte du b–cheron: Holzfällerhütte. Hier wohnen ein Holzfäller und dessen Frau.
+
+Prestitère: Pfarrhaus. Der Priester ist hier ansässig.
+
+Carrière: Steinbruch. Ein Bergarbeiter wohnt hier mit seiner Frau. Hier werden scheinbar unbegrenzt Sand und Stein abgebaut.
+
+Maison du charpentier: Schreinerei. Die Schaffensstelle eines Schreiners.
+
+Auberge: Herberge. Hier übernachten Händler und lagern ihre Waren. Wenn es unbelegt ist, kann hier ein männlicher Jugendlicher zu einem lokalen Händler heranwachsen.
+
+Relais: Gasthaus. Kleiner als eine Herberge. Wird auch von Händlern zur Übernachtung aufgesucht, jedoch werden hier keine Händler herangezogen.
+
+March‚: Markt. Jedes anständige Dorf will irgendwann einen Ort schaffen, den fremde Händler besuchen können um ihre exotischen Waren zu verkaufen!
+NEW_PAGE
+Unbewohnte Gebäude
+
+Archives du village: Dorfarchiv. Es gibt Tafeln, die Informationen ber jeden Bewohner, dessen Beruf und deren Familiegeschichte liefern.
+
+Boulangerie: Bäckerei. Frauen backen hier aus Weizen Brot. Ein sehr wichtiges Gebäude, da die Verfügbarkeit von Brot das Kinderwachstum beschleunigt.
+
+Chapelle / Eglise: Kapelle / Kirche. Die Kapelle, später zu einer Kirche ausgebaut, suchen Dorfbewohner auf, die den Wunsch verspüren zu beten.
+
+Taverne: Taverne. Dorfbewohnerinnen gehen hier hin um Cidre herzustellen. Wenn ein Destillationsgefäss installiert ist, stellen sie hier Calvados her. Die Dorfbewohner suchen die Taverne auf um gemeinsam etwas zu trinken. 
+
+Tour de guet: Wachturm. Ein Beobachtungsposten, der von patrouillierenden Wachen besucht wird.
+NEW_PAGE
+Dekorative Gebäude
+
+Fontaine / Grande Fontaine / Puit: Springbrunnen / Groáer Springbrunnen / Brunnen. Rein dekoratives Bauwerk.

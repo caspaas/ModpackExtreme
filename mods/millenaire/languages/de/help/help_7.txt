@@ -1,0 +1,12 @@
+version:3.4
+<darkblue>Quests
+
+Quests sind zusätzliche Aufgaben die du für die Dorfbewohner ausführen kannst. Wenn eine Quest verfügbar ist, wird es über dem Kopf von einem Dorfbewohner in eckigen Klammern angezeigt werden, zum Beispiel: "<darkblue> [Durstig!] <Schwarz>". Rechtsklicke darauf für eine Beschreibung der Aufgabe und die Option zu akzeptieren oder abzulehnen. Quests werden mit Geld, Ansehen oder Gegenständen belohnt werden. Einige Quests erfordern einen guten Ruf im Dorf zu haben, um verfügbar zu sein.
+
+Um herrauszufinden, welche Quests du aktzeptiert hast und was du tun musst, drücke "M".
+
+<darkblue>Schöpfungsquest
+
+Diese spezielle Kollektion beinhaltet viele Missionen und verfügt über zwei unabhängige Kapitel, die sich auf die normannischen und indischen Zivilisationen beziehen. Die erste Mission eines jeden Kapitels wird dir von einem indischen oder normannischen Dorfbewohner zugewiesen werden, sobald du den Ruf "Freund des Dorfes" erreicht hast (die Quest startet zufällig, es kann einige Zeit dauern bis die Quest verfügbar ist).
+
+In beiden Quests musst du ein spezielles abgeschlagenes Gebäude finden. Du musst so lange die Gegend erkunden bis du es findest; pass genau auf, denn es ist sehr Rar! Im Gegensatz zu den anderen alleinstehenden Gebäuden, erscheinen diese Gebäude wenn du die "V" Taste drückst.

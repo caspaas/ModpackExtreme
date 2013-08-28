@@ -1,0 +1,18 @@
+version:3.4
+<darkblue>Millénaire Help
+
+Diese Hilfe beschreibt die wichtigsten Features von Millénaire. Für weitere Informationen besuche das Wiki oder stelle die Fragen bei minecraftforum.net.
+
+Benutze die Icons an beiden Seiten des Bildschirms um auf die verschiedenen Kapitel der Hilfe zuzugreifen.
+
+<darkblue>Allgemeines zu Dörfen und alleinstehenden Gebäuden
+
+Millénaire fügt Minecraft <darkblue>Dörfer<black> von verschiedenen Kulturen hinzu. Diese Dörfer werden in diversen Biomen zufallsgeneriert. Diese sind von verschiedenen Typen und bieten unterschiedliche Produkte, aber sie haben alle einen Anführer, bauen neue Gebäude, handeln mit dir und mögen dich oder nicht je nachdem was du tust(Vgl. mit der Rubrik "Ansehen").
+
+Jedes Dorf ist um ein zentrales Gebäude herum gebaut (z.B. eine Festung, ein Kloster, ein Palast, etc...). In diesen Gebäude wirst du einige Tafeln vorfinden, welche dich über das Dorf informieren. <darkblue>Rechtsklicke<black> auf eine Tafel um weitere Informationen zu bekommen.
+
+<darkblue>Alleinstehende Gebäude<black> erweitern sich jedoch nicht. Sie sind evt. leer (nur mit einigen Dingen, die in Truhen zu finden sind), besetzt mit friedlichen Siedlern die mit dir handeln, oder von feindlichen Siedlern besetzt, die dich angreifen.
+
+Beim drücken der "V" Taste (Standardeinstellung) wird eine Liste mit Dörfern in der Nähe angezeigt. Außenstehende Gebäude werden nicht angezeigt, du musst dir ihre Positionen merken.
+
+Standardmäßig ist die minmale Distanz zwischen zwei Dörfern 2 Kilometer. Weiler welche um bestimmte Dörfer erstellt werden sind eine Ausnahme von dieser Regel.

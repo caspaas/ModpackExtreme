@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Ansehen & Dorfführer
+
+Jedes Dorf in Millénaire hat eine Meinung über dich (neutral zu Beginn, danach verändert sie sich je nach deinen Aktionen). Dieser Ruf ist sehr wichtig: viele Belohnungen sind nur mit einem guten Ruf möglich, und wenn dein Ruf zu schlecht wird, können sich die Dorfbewohner weigern mit dir zu handeln. Du kannst deinen Ruf überprüfen, indem du mit dem Dorfführer sprichst (<darkblue>rechtsklick<Schwarz> auf ihn).
+
+Die wichtigste Möglichkeit deinen Ruf zu verbessern ist mit dem Dorf zu handeln. Käufe, sowie Verkäufe verbessern deinen Ruf entsprechend dem Preis. Du kannst dein Ansehen auch durch das Ausführen von Quests für sie steigern. Umgekehrt wird ein Angriff auf ein Dorf oder das scheitern bestimmter Missionen deinen Ruf schaden.
+
+Du hast mit jeder Kultur jeweils <darkblue>einen eigenen Ruf<Schwarz>. Dieser Ruf wird von all deinen Taten mit den Dörfern dieser Kultur beeinflusst und beeinflusst deinen Handel mit allen anderen Dörfern der gleichen Kultur. Wenn du zum Beispiel einen sehr guten Ruf bei einem normannischen Dorf hast, werden dich andere normannischen Dörfer auch (ein wenig) mehr mögen. Du kannst deinen Ruf bei jeder Kultur überprüfen, in dem du den Info-Bildschirm (Standard: "M"-Taste) aufrufst.
+
+<darkblue>Aktionen welche einen bestimmten Ruf benötigen
+
+<darkblue>ein Pergamant mit Dorfinformationen kaufen
+
+Wenn dein Ruf gut genug ist, kannst du ein Pergament mit Dorfinformationen beim Dorfführer kaufen. Diese Schriftrolle bietet alle Informationen, die die verschiedenen Tafeln im Dorf bieten.
+
+<darkblue>ein Haus kaufen
+
+Sobald du genügend Ruf angesammelt hast, kannst du ein Haus kaufen (oder ein Feld um darauf zu bauen), indem du mit dem Dorfführer sprichst.Dein Haus wird durch das Dorf gebaut werden, nachdem die laufenden Bauarbeiten abgeschlossen sind. Anders als der Rest der Gegend um das Dorf, gehört dir dieses Gebäude und du kannst es nach belieben anpassen.
+
+<darkblue>Lernen Feldfrüche anzubauen
+
+Du kannst lernen Millénaire-spezifische Feldfrüchte anzubauen, die von einigen der Zivilisationen benutzt werden. Sprich den Dorfführer, sobald du genügend Ruf dafür hast.
+
+<darkblue>Zusätzliche Dinge kaufen
+
+Einige wertvolle Gegenstände benötigen einen guten Ruf bei dem Dorf. Falls du nicht genügend Ruf für einen bestimmten Gegenstand hast, wird dir das im Handelsfenster angezeigt.
+
+<darkblue>Zusätzliche Quests
+
+Einige Quests, unter anderem die Erstellungsquest, können nur mit einem guten Ruf gestartet werden (siehe <darkblue>"Quests"<black>).
+
+<darkblue>Anführer einer Zivilisation werden
+
+Sobald du den maximalen Ruf (<darkblue>"Potentieller Anführer" <black>) erreicht hast, kannst du ein Dorf erschaffen, in dem du der Anführer bist (siehe <darkblue> "Erschaffung eines Dorfes"<black>)

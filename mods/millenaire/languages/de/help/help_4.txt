@@ -1,0 +1,11 @@
+version:3.4
+<darkblue>Dorferweiterung
+
+Alle Dörfer fangen klein an, um ein zentrales Gebäude herum (unterschiedlicher Natur: Festung, Schloss, Kloster, etc ... gemeinhin "Dorfzentrum" genannt), mit ein paar Häusern oder anderen Gebäuden. Das Hauptziel der Dorfbewohner ist es ihr Dorf zu erweitern, indem Sie neue Gebäude bauen und bestehende Gebäude verbessern.
+Aus diesem Grund benötigen sie Rohstoffe. Sie können etwas davon selbst produzieren (Holzfäller erntet Holz und Bergleute Stein, etc...), sind aber abhängig vom Spieler. Ihre materiellen Bedürfnisse für den geplanten Bau werden im Hauptgebäude angezeigt. Du kannst ihnen helfen, indem du diese Rohstoffe zuerst verkaufst.
+
+Die Dorfbevölkerung wird sich auch im Laufe der Zeit zu erhöhen - in der Nacht können verheiratete Dorfbewohner Kinder haben. Sobald sie groß geworden sind ziehen diese Kinder in ein neues Zuhause, falls welche verfügbar sind, und werden zu Erwachsenen.
+
+Der Ausbau eines Dorfes wird im Allgemeinen auf zwei Arten enden: Entweder, weil das Dorf alle baubaren Strukturen fertig hat, oder weil es keinen Platz hat. Im letzteren Fall kannst du auf die Dorfkarte schauen, welche Bereiche unbebaubar sind. Manchmal ist es möglich sie bebaubar zu machen, zum Beispiel durch das Auffüllen eines Sees.
+
+Manchmal benötigt ein Dorf einen Block den du nicht selbst herstellen kannst, wie normannische und japanische Holzrahmen. Dann musst du warten bis das Dorf eine Werkstatt baut und dort ein Kind als Handwerker ausbildet.

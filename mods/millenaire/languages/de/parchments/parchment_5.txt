@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Indische Bewohner
+
+Anführer:
+
+Gaanv ka Mukhiya: Dorfchef. Er ist der reichste Mann des Dorfes und ihm gehört das meiste Land. Zudem beschäftigt er die Mehrheit der Dorfbewohner. So fällt es ihm nicht sonderlich schwer als Anführer "gewählt" zu werden.
+
+Rajput Senapati: General der Rajput. Er entstammt der hoch angsehenden Kaste der Rajput und verteitigt das Dorf von seiner Festung aus. Nach und nach werden die  fleissigen Dorfbewohner sein kleines Fort in eine gigantische Festung ausbauen.
+NEW_PAGE
+Frauen:
+
+Mahilaa kisaana: Bäuerin. Diese Frauen aus einer niederen Kaste arbeiten hart. Sie bestellen die Felder, liefern Speisen und Werkzeuge und kümmern sich nebenbei um den Spieler. Obwohl sie nicht hoch angesehen sind, würden die Dörfer ohne sie zusammenbrechen.
+
+Malkin: Reiche Frau. An ihren goldverzierten Saris erkennt man, dass sie es vorziehen nicht zu arbeiten.
+NEW_PAGE
+Männer:
+
+Kisaana: Bauer. Diese armen Männer träumen von einer eigene Hühnerzucht, doch vorerst sind sie gezwungen Gebäude zu errichten, Lehmziegel herzustellen und die Felder mit ihren Frauen zu bestellen.
+
+Lakarhara: Holzfäller. Diese Männer tragen einen imposanten Bart und ihre Aufgabe ist es, sich um die Haine zu kümmern.
+
+Khanik: Bergarbeiter. Diese armen Kerle verbringen den Tag im Steinbruch, arbeiten hart und lange, haben dafür aber im Vergleich zu ihren normannischen Kollegen die Möglichkeit am Ende eines Tages eine Taverne aufzusuchen.
+
+Rajput Sainik: Soldat der Rajput. Seit ihrer Kindheit werden sie für den Kampf trainiert. Sie verteidigen ihr Dorf - und sei gewiss, sie nehmen ihr Rolle sehr ernst.
+
+Loohaar: Schmied. Ihr Beruf ist zwar nicht der angesehenste, doch was würden die Dörfler ohne sein Werkzeug tun?
+
+Sena ka Loohaar: Waffenschmied. Militärschmiede haben sich auf das Schmieden von Waffen und Rüstung spezialisiert. Es ist anstrengende Arbeit, aber ertragreicher als das Herstellen von Werkzeugen.
+
+Muurtikaar: Bildhauer. Als Handwerker und Künstler in einem haben sie die grosse Ehre, die Statuen für den Tempel fertigen zu dürfen.
+
+Pandit: Priester. In der Brahmanenkaste geboren dienen sie den Dorfbewohnern als Priester und Lehrer. Ihr schier unermessliches Wissen über Hymnen in Sanskrit geht mit ihrer sturen Verweigerung für körperliche Arbeit einher.
+NEW_PAGE
+Kinder:
+
+Larki / Larka: Mädchen / Junge. Sie leben bei ihren Eltern bis sie zu Jugendlichen herangewachsen sind.
+
+Kishori / Kishor: Jugendlicher / Jugendliche. Noch jung, aber alt genug einen eigenen Haushalt zu leiten und einen Beruf auszuüben, sobald sie in ein Haus ziehen.

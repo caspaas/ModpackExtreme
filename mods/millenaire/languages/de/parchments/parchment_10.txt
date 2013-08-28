@@ -1,0 +1,70 @@
+version:1.1.4
+MillÃ©naire: Maya-Gebäude
+
+Dorfzentren
+
+Muul: Maya-Pyramiden. Die Maya bauten Hunderte von unterschiedlichen Variationen, von der gewöhnlichen Stufenpyramide zu den pyramidenförmigen Plattformen, worauf sie unter anderen ihre Paläste, Tempel, Opferaltäre und andere Strukturen errichteten.  
+
+K'uhul Jalab: Geheiligter Ballspielplatz. Dies war der Ort eines brutalen Maya-Sports. Das Feld, das ungefähr die Größe eines Fußballfeldes hat, ist von zwei beeindruckenden 26-Meter hohen Wänden begrenzt. Sieben Kämpfer pro Team versuchten einen kleinen Gummiball durch einen kleinen Steinring, der sich 23-Meter über dem Boden befindet, zu bekommen. Angeblich durften sie dafür weder mit Händen noch mit Füssen den Ball berühren, sondern mussten ihre Hüfte benutzen. 
+
+Kan Cha'an: Observatorium. Die alten Maya bauten Observatorien und richteten mit den Bewegungen der Himmelskörper wie die Sonne und den Plejaden ihre wichtigsten Gebäude aus. Maya-Astronomen nahmen Kenntnis zu den Positionen der Sonne, den grössten nördlichen und südlichen Monddeklinationen und der Venusdurchgänge. Sie beobachteten die Schatten im Raum um mit Hilfe des Sonnenwinkels, der sich in den Gang projektierte, vorhersagen zu können, wann die Sonnenwenden auftreten würden.
+NEW_PAGE
+Häuser
+
+Maya-Otoch: Maya-Haus. Anfangs waren es einfache Hütte aus Schlamm, Holz und Stein. Als die Maya-Zivilisation wuchs, wurden sie durch Steinstrukturen ersetzt. Der schräge Strohdachstil der Hütten gab ihnen ein Steinkuppelaussehen, wofür sie bekannt wurden.
+
+B'aat Winik Nah: Holzfällerhaus. Dies waren die Maya-Häuser für die Männer, die das erforderliche Holz lieferten, damit ihr Dorf wachsen konnte.
+
+Tunich In-ti'a'al: Steinbruch. Maya-Dörfer wuchsen nur mit unglaublichen Mengen Gestein. Das häufigste war Kalkstein. Dieser Stein wurde von flachen Gruben in der Nähe der Dorfgrenzen abgebaut. 
+
+Kob Took: Handwerker. Das war das oft gut eingerichtete Haus des Handwerkers. Diese Häuser waren oft voller Materialien, die verwendet werden, um die verschiedenen Elemente zu schaffen, die von den Stämmen verwendet wurden. 
+
+Ah Tz'on Si 'Took: Militärschmiede. Das Gebäude für die Herstellung und Lagerung der verschiedenen Waffen, die Mayas in der Kriegsführung und alltäglichen Jagd verwendeten. 
+
+Uxul Otoch: Bildhauerhaus. Dieses Haus wurde vom Dorfbildhauer benutzt. Die Bildhauer lagerten oft ihre Vorräte in diesem Haus um schnell Zugriff darauf zu haben.
+
+Mais-Makan: Maisfeld. Mais, das Grundnahrungsmittel der Maya-Zivilisation, wurde rund um den Maya-Dörfern angepflanzt. Einige Städte wuchsen zu Zehntausenden von Einwohnern. Daher mussten sehr große Mengen Mais angebaut werden. 
+
+Ah Kax Makan: Hühnerfarm. Maya bewirtschafteten Geflügel hauptsächlich wegen ihres Fleisches. Das Fleisch diente im Allgemeinen als Füllung für ihre berühmten Maya-Tamales. 
+
+Chanan Nah: Haus des Wachmanns. Maya-Krieger, oftmals einfache Dorfbewohner, die auch andere Arbeiten ausführten, waren engagierte Soldaten, die auf die Kunst der Jagd und der Kriegsführung ausgerichtet waren. Diese Kriegerhäuser wurden oft mit den Trophäen von ihren Abenteuern geschmückt. 
+
+Ah Waay Su'uk: Schamanengründe. Das Haus der Maya-Schamanen und deren Frauen, oft dem Glauben der Schamanen gewidmet. 
+
+K'as Koloh-che '/ K'as Otoch: Banditenaußenposten / -häuser. Dies sind die Orte, an denen Maya wohnen, die nicht länger in den Dörfern willkommen sind. Diese Standorte bestehen in der Regel aus ein oder zwei kleinen Hütten. Manchmal fanden jedoch die verbannten Mayas unbewohnte Ruinen, um sie als Wohnhäuser wieder aufzubauen. Es wird empfohlen, diesen Bereichen fern zu bleiben: Diese Mayas würden dich töten, um ihre Häuser zu schützen.
+NEW_PAGE
+
+Unbewohnte Gebäude:
+
+Jalab: Ballspielplatz. Die Spiele, die auf dem Ballspielplatz gespielt wurden, waren manchmal auf Leben und Tod. Der zentrale Teil der Maya-Stadt wurde aus religiösen Gründen errichtet. Fast jede Maya-Stadt hatte für Pok-A-Tok einen Ballspielplatz. Pok-A-Tok-Spiele waren oftmals Teil der religiösen Zeremonien. 
+
+K'aax: Hain. Es war die wichtigste Holzversorgung des Dorfes. Die Maya hielten einen zentrale Bereich für Bauholzrodung. Sobald es aufgebraucht war, siedelten sie in neue Bereiche. Oft wanderten ganze Dörfer ab. 
+
+Hu'um-Noh: Bibliothek. Maya-Bibliotheken waren als einfache Strukturen gebaut um Glyphen über das Dorf und die Errungenschaften der wichtigen Leute zu beherbergen.
+
+K'u-nah: Tempel. Maya-Tempel waren oft sehr aufwendig. Sie waren Orte der religiösen Veranstaltungen und die meiste Zeit beherbergten sie königliche Priester.
+
+K'eyem: Altar. Maya opferten alles, von Tieren bis zu Menschen. Diese Opfer fanden oft auf spektakulären Altären statt, die vom Blut der Opfer bestrichen wurden.
+
+Chak: Bäckerei. Dies ist der Ort, an dem Maya ihr Essen bringen um es für den Stamm kochen zu lassen. Masa und Wah werden bei diesen Maya-Bäckereien zusammen mit dem Rest ihrer Küche, wie Kakao, hergestellt.
+
+K'in Pak: Maya-Kalender. Die alten Mayas erfanden einen Kalender von bemerkenswerter Genauigkeit und Komplexität. Der Maya-Kalender verwendet parallel drei verschiedene Datumssysteme: die Lange Zählung, der Tzolkin (göttlicher Kalender) und der Haab (Bürgerkalender). Von diesen hat nur der Haab eine direkte Beziehung zu der Länge des Jahres.
+
+Ch'en: Cave. Eine mysteriöse alte Maya-Höhle. 
+
+Pwes: Zisterne. Eine Zisterne ist eine Art Brunnen, dia Maya verwendeten, um Regenwasser zu sammeln und es für die Versorgung des Dorfes zu speichern. Maya stellten oft Blöcke um den Grossteil der Öffnung der Zisterne, so dass nur ein kleines Loch in der Mitte für die Sammlung von Wasser war.
+
+Laak 'Otoch / Laak'Noh: Gasthäuser. Das waren einfach leere Bauten um reisende Pok-A-Tok-Teams zu beherbergen.
+
+Cha'an Ka'nal: Wachturm. Diese Türme wurden unter anderem gebaut um über dem Blätterdach des Dschungels sehen zu können. Beutetieren und sich näherde Einheimische waren so besser zu erkennen.
+
+
+Hach Noh Otoch / Hach Noh Nah / Yalam Otoch / Ni'Nah: Sehr großes Haus / unteres Haus / oberes Haus. Dieser Stil von Gebäuten wurde verwendet, wenn der Platz in der Nähe des Dorfzentrums knapp wurde. Maya kombinierten ihre Häuser und teilten Zimmer, um Platz zu sparen. Als Folge erstellten sie häufig die größten und prächtigsten Bauwerke.
+
+Sa'at Muul: Untergegangene Pyramide. Es gab Zeiten der Maya-Geschichte, in denen ganze Dörfer in einer einzigen Nacht verschwanden. Dieses Verschwinden ist immer noch ein Mysterium, das nie vollständig geklärt wurde. Manchmal überlebten diese Ruinen und es wird angenommen, dass verborgene Schätze unter ihnen gefunden werden können.
+
+Sa'at Maya Mais Makan: Untergegangener Maya-Bauernhof. Einige Maya mussten ihre Häuser aus vielen Gründen verlassen. Manchmal waren in den hinterlassenen Gebäude immer noch verschiedene Objekte der Familie, die dort lebte. Wenn du auf einen verlassenen Maya-Bauernhof kommst, sei aufmerksam, was auf dem Feld noch übrig ist.
+
+Sa'at Maya Otoch: Untergegangenes Maya-Haus. Ein weiteres verlassenes Maya-Haus. Dieses Haus ist völlig heruntergekommen und sieht aus wie in ferner Vergangenheit verlassen. Ein tolles Zuhause zum Umziehen, wenn es nicht so baufällig wäre.
+
+Sa'at Tunich In-ti'a'al: Untergegangener Steinbruch. Das ist ein vergessener Maya-Bergbau , die offenbar längst verlassen wurde. Es ist ein Rätsel, warum dies passiert ist. Es befindet sich immer noch eine Menge Erz darin.

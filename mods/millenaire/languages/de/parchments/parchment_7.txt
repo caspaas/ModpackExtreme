@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Indische Objekte
+
+Denar. Aus noch unerklärlichen Gründen benutzen auch Inder den Denar als Zahlungsmittel, genau wie die Normannen. Es gibt drei Münz-Arten: bronzene, silberne im Wert von 64 bronzenen und goldene, die 64 silberne kosten.
+NEW_PAGE
+Food
+
+Reis. Reis kann man als wichtigste Speisezutat der Inder im Dorf kaufen. Von sich aus hat er kaum Geschmack und kann nicht vom Spieler verzehrt werden. Indische Kinder wachsen schneller, wenn zu Hause genügend Reis vorhanden ist.
+
+Gelbwurz. Dieses Gewürz, auch als Kurkuma bekannt, gewinnt man aus der getrockneten Knolle des Gelbwurzes durch Zermahlung. Es ist eine wichtige Zutat für Gewürzmischungen wie Curry. Zusammen mit Reis erhöht es die Wachstumsgeschwindigkeit der Kinder. 
+
+Vegetarisches Curry. Diese einfache Mischung aus Reis und Gelbwurz füllt zwei Herzen auf.
+
+Hühnerfleisch. Bauern, die einen Hühnerstall besitzen, können diese weitere Zutat für Murgh Curry liefern. Sie wirkt sich ebenfalls possitiv auf die Wachstumsrate von Kindern aus. Roh verspeist, erhält der Spieler nur ein halbes Herz zurück.
+
+Murgh Curry. Eine Mischung aus Gelbwurz, Reis und Huhn. Diese Köstlichkeit füllt vier Herzen auf. 
+
+Rasgulla. Für die Herstellung dieser speziellen Süssigkeit aus gebackenem Hüttenkäse und süssem Sirup brauchen die Bäuerinnen Zuckerrohr. Acht mal stapelbar heilt es je ein Herz. Wenn es von Paaren im Dorf verzehrt wird, erhöht es die Chancen auf Nachwuchs. Bevor jetzt Fragen kommen, dazu gibt es keine weiteren Einzelheiten.
+NEW_PAGE
+Konstruktion und Dekoration
+
+Nasser Lehmziegel. Schlamm aus Erde und Sand ist die erste Stufe der Produktion von Lehmziegeln. Die nassen Ziegel trocknen in der heissen Sonne zu Ziegeln.
+
+Lehmziegel. Diese getrockneten Ziegel sind der wichtigste Baustoff der Inder. 
+
+Gebrannte Ziegel. Nachdem sie gebrannt wurden, sind die Lehmziegel stabiler und durch das hellere Erscheinungsbild schöner anzusehen.
+
+Ziegelform. Mit diesem im Dorf kaufbaren Werkzeug lässt sich Schlamm in Ziegelform bringen. Platziere die nassen Lehmziegel in der Sonne um ihn zu trocknen.
+
+Hindistatue. Diese Statuen der indischen Gottheiten werden vom Bildhauer hergestellt um den Tempel zu schmücken. Sie werden aber auch an Reisende mit einem ausgebildeten Kunstgeschmack verkauft.
+NEW_PAGE
+Pergamentrollen
+
+Indische Bewohner. Informationen über die indischen Dorfbewohner. Sowohl die, die arbeiten als auch jene, die den anderen dabei zusehen.
+
+Indische Gebäude. Eine Zusammenstallung der indischen Gebäude, von der wackeligen Holzfällerhütte bis zur mächtigen Festung.
+
+Indische Gegenstände. Enthält alles, was man über indische Gegenstände wissen sollte.
+
+Die Inder. Diese Schriftrolle fast alle drei Schriftrollen zu einer praktischen und handlichen zusammen. 

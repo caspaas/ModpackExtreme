@@ -1,0 +1,28 @@
+version:3.4
+<darkblue>Kämpfe und Raubzüge
+
+Millénaire ist nicht immer ein friedlicher Mod: Du kannst Dorfbewohner verhauen, Dörfer können Raubzüge gegeneinander führen, Monster können Dörfer angreifen und einige alleinstehende Gebäude sind von Banditen besetzt. Egal welche Umstände, bestimmte Grundsätze verändern sich nicht: <darkblue> Dorfbewohner sind nur für direkte Angriffe (Nahkampf, Pfeile und Tränke) anfällig <Schwarz>. Sie werden nicht durch Feuer, Fallschaden oder Kakteen geschädigt. Diese Beschränkung soll den Spieler davon abhalten die Dorfbewohner zu töten ohne dass sie mitbekommen, dass der Spieler sie angreift.
+
+Dorfbewohner variieren in der Stärke. Die Ausrüstung die sie tragen, kann sie sehr viel gefährlicher machen.
+
+<darkblue>Wiederbelebung der Dorfbewohner
+
+Einmal gelynchte Dorfbewohner sind ersteinmal tot. Tote Dorfbewohner werden in ihren Häusern wiederbelebt (aber sie verlieren ihre Ausrüstung). Schließlich kann sich der Spieler auch wiederbeleben...
+
+<darkblue>Attack by players
+
+Du kannst immer einen Dorfbewohner angreifen, aber andere Leute des Dorfes werden dann helfen gegen euch zu kämpfen. Sollte es dir gelingen alle Dorfbewohner von einem Dorf oder einem alleinstehenden Gebäude zu töten, werden die Truhen des Dorfes geöffnet und du kannst den Inhalt klauen.
+
+<darkblue>Banditen
+
+Einige Bewohner von alleinstehenden Gebäuden werden dich angreifen, falls du dich näherst. Dein Ruf der jeweiligen Zivilisation wird nicht sinken, wenn du solche Banditen tötest. Wie andere Dorfbewohner werden sie nachts wiederbelebt - schaue unter "<darkblue>Zerstören eines Dorfes<black>" um zu sehen wie man das verhindert.
+
+<darkblue>Raubzüge zwischen Dörfern
+
+Millénaire-Dörfer haben positive oder negative Beziehungen mit den umliegenden Dörfern. Diese Beziehungen ändern sich zufällig und können vom Spieler durch Gespräche mit dem Anführer eines der beiden Dörfer beeinflusst werden. Wenn ihre Beziehungen sehr schlecht sind und eines der Dörfer genug Krieger hat, kann es einen Angriff auf das andere Dorf starten. Das wird dir durch eine Meldung mitgeteilt. Bei einem Raubzug werden die Krieger, die die Stadt angreifen, versuchen das Mannsvolk des Dorfes anzugreifen und zu töten. Wenn sie das tun, werden sie einige der Ressourcen als Beute mitnehmen. Sie können entweder der einen oder der anderen Seite bei einem Raubzug helfen.
+
+Es kann nützlich sein ein Dorf, von dem du willst, dass es seine Nachbarn angreift, zu fördern um die Ressourcenproduktion zu erhöhen. Etwas zynischer: Provozierte Raubzüge können dir selbst dabei helfen um an einen Teil der Beute zu kommen, sobald die Verteidiger tot sind.
+
+<darkblue>Anheuern eines Dorfbewohners
+
+Es ist möglich einige Dorfbewohner (wie z.B. Soldaten und Waldarbeiter) anzuheuern, damit sie dich in Kämpfen unterstützen. Sie folgen dir und bekämpfen deinen Gegner mit dir zusammen.

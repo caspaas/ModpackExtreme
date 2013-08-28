@@ -1,0 +1,10 @@
+0;Fremder;Wir trauen Fremden nicht sofort. Zeig dich von deiner besten Seite.
+4*64;Bekanntes Gesicht;Wir haben dich hier schon öfter gesehen, aber das heißt nicht, dass wir dir vertrauen.
+16*64;Regulärer Besucher;Wie waren deine Reisen $name?
+64*64;Lieblingshändler;Ah, $name, in den Augen der Dorfbewohner kommst du von weit her.
+2*64*64;Freund des Dorfes;Hallo mein Freund, was können wir heute für dich tun?
+8*64*64;Einer von uns;Hallo, $name, wir haben deine Rückkehr sehnsüchtig erwartet. Du gehörst zu uns.
+32*64*64;Potentieller Anführer;Du hast dir das Vertrauen der Japaner redlich verdient. Sie würden dir überall hin folgen.
+-64;Plagegeist;Ach du bist es, was willst du?
+-4*64;Unbeliebter Außenseiter;Verlasse jetzt unser Dorf du Schwein!
+-16*64;Feind;Wie kannst du es wagen, dich hier noch einmal blicken zu lassen? Erwarte deine Strafe!

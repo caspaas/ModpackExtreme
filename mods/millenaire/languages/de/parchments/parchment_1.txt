@@ -1,0 +1,44 @@
+version:1.1.4
+Millénaire: Normannische Bewohner
+
+Anführer
+
+Chevalier: Ritter. Lebt in einer Festung, von welcher er aus das Land überwacht und die Taverne besucht. Vermeide es ihm im Kampf gegenüber zu stehen! Er leitet militärische Dörfer und kleine Städte.
+
+Moine: Mönch. Lebt in einer Abtei, in welcher er mühevoll alte Bücher auf neue Schriftrollen überträgt. Eine Kunst, wie er sagt. Er leitet religiöse Dörfer und Ortschaften.
+
+Sénéchal : Seneschall. Lebt in einem Herrenhaus, von wo er die Produktion und Abgaben der Bauern überwacht. Er leitet landwirtschaftliche Dörfer und Ortschaften.
+
+Maître de la Guilde : Gildenmeister. Lebt in einem Gildenhaus, von wo er die Handwerker seines Dorfes beaufsichtigt. Leitet handwerkliche Dörfer und Ortschaften.
+NEW_PAGE
+Frauen
+
+Villageoise: Dorfbewohnerin. Fast alle Frauen gehören dieser Gruppe an. Sie bringen Rohstoffe von ihrem Mann in die Stadthalle, bauen Gebäude und verbessern diese und betreiben Handel mit dem Spieler.
+
+Dame: Lady. Dame. Lebt mit ihrem Mann in einer Festung. Sie macht Wandteppiche um die Festung zu verzieren oder an den Spieler zu verkaufen.
+NEW_PAGE
+Männer
+
+Fermier: Bauer. Lebt auf einem Bauernhof, wo er Weizen anbaut und erntet.
+
+Bûcheron: Holzfäller. Lebt in einer Holzfällerhütte. Er sammelt Holz, sowie Äpfel für Cidre und pflanzt neue Bäume in den Hainen, die er bewirtschaftet.
+
+Garde: Wache. Lebt im Haus der Wache. Tut nichts außer Cidre trinken und gelegentlich beten, wenn nicht grad ein Mitbürger attackiert wird. Ihn sollte man nicht als Feind haben, vor allem dann, wenn er mit einem normannischen Breitschwert ausgerüstet ist.
+
+Prêtre: Priester. Lebt alleine im Pfarrhaus. Wenn er nicht in der Kirche betet, schläft er.
+
+Forgeron: Schmied. Lebt in der Schmiede oder im Rüsthaus. Wenn Eisen vorrätig ist, stellt er in einer Schmiede Werkzeug oder in einem Rüsthaus Rüstungen und Schwerter her.
+
+Eleveur : Tierzüchtender Bauer. Lebt in einer Rinder-, einer Schweine- oder einer Geflügelzucht. Sammelt verschiedene Waren von seinen Tieren und macht daraus Normannisches Tripes, einen Innereieneintopf oder Blutwurst, die Boudin Noir genannt wird.
+
+Mineur : Bergarbeiter. Lebt und arbeitet in einem Steinbruch und sammelt ununterbrochen Stein und Sand. Sollte sein Steinbruch aufgebessert sein, kann er aus Sand Glas und aus Pflastersteinen Steine herstellen.
+
+Charpentier : Schreiner. Lebt und arbeitet in einer Schreinerei, wo er Fachwerke für Gebäude herstellt.
+
+Marchant : Händler. Zieht von Herberge zu Herberge und verkauft Waren vom einen Dorf an das Nächste. Es ist seine Aufgabe sich um die Waren der Dorfbewohner zu sorgen.
+
+Marchant étranger : Fremder Händler. Händler von weit her besuchen den Markt um mit ihren exotischen Waren zu handeln und dann mit schwer verdienten Denaren wieder zu verschwinden.
+NEW_PAGE
+Kinder
+
+Garçon / fille : Junge und Mädchen. Leben bei ihren Eltern und werden über Nacht größer. Sind sie groß genug, ziehen sie in ein eigenes Haus und werden erwachsen.

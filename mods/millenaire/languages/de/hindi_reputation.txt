@@ -1,0 +1,10 @@
+0;Fremder;In diesem entlegenen Dorf sind wir keine Fremden gewöhnt.
+4*64;Bekanntes Gesicht;Bis jetzt hast du noch keine Verbrechen begangen.
+16*64;Regulärer Besucher;Namaste, $name! Welche Neuigkeiten bringst du mit?
+64*64;Beliebtester Händler;Willkommen zurück, $name. Was hast du zum Handeln mit gebracht?
+2*64*64;Freund des Dorfes;$name-ji, wir sehen dich alle als wahren Freund.
+8*64*64;Einer von uns;Ich hätte nie gedacht, dass wir jemals einen Fremden als einen von uns akzeptieren, aber $name-ji, du bist eine Ausnahme!
+32*64*64;potentieller Anführer;$name-ji, du hast dir das Vertrauen meines Volkes redlich verdient. Sie würden dir überall hin folgen. 
+-64;Plagegeist;Wir mögen keine Fremden hier, besonders keine wie dich.
+-4*64;Unbeliebter Außenseiter;Wer auch immer dich erzogen hat, er hat es sehr schlecht gemacht. Wir hoffen alle, dass du bald verschwindest.
+-16*64;Feind;Ich bete jeden Morgen dich nie wieder sehen zu müssen.
