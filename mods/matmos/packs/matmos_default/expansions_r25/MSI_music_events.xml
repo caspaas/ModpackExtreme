@@ -1,0 +1,2539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+<condition name="00jon_air_40">
+	<descriptible>
+		<nickname>00jon_air_40</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>SmallScanPerMil</sheet>
+	<key>0</key>
+	<symbol>&gt;</symbol>
+	<constant>400</constant>
+	<list></list>
+</condition>
+<condition name="00jon_count_gravel">
+	<descriptible>
+		<nickname>00jon_count_gravel</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>6</constant>
+	<list></list>
+</condition>
+<condition name="00jon_count_roof">
+	<descriptible>
+		<nickname>00jon_count_roof</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScan</sheet>
+	<key>53</key>
+	<symbol>&gt;</symbol>
+	<constant>60</constant>
+	<list></list>
+</condition>
+<condition name="00jon_count_vitre">
+	<descriptible>
+		<nickname>00jon_count_vitre</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScan</sheet>
+	<key>102</key>
+	<symbol>&gt;</symbol>
+	<constant>20</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A4_inf_15">
+	<descriptible>
+		<nickname>00jon_de_A4_inf_15</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&lt;</symbol>
+	<constant>15</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A4_inf_30">
+	<descriptible>
+		<nickname>00jon_de_A4_inf_30</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&lt;</symbol>
+	<constant>30</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A4_sup_15">
+	<descriptible>
+		<nickname>00jon_de_A4_sup_15</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>15</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A4_sup_30">
+	<descriptible>
+		<nickname>00jon_de_A4_sup_30</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>30</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A4_sup_85">
+	<descriptible>
+		<nickname>00jon_de_A4_sup_85</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>85</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_inf_25">
+	<descriptible>
+		<nickname>00jon_de_A_inf_25</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&lt;</symbol>
+	<constant>25</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_inf_33">
+	<descriptible>
+		<nickname>00jon_de_A_inf_33</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&lt;</symbol>
+	<constant>33</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_inf_45">
+	<descriptible>
+		<nickname>00jon_de_A_inf_45</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&lt;</symbol>
+	<constant>45</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_inf_50">
+	<descriptible>
+		<nickname>00jon_de_A_inf_50</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&lt;</symbol>
+	<constant>50</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_sup_25">
+	<descriptible>
+		<nickname>00jon_de_A_sup_25</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>25</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_sup_66">
+	<descriptible>
+		<nickname>00jon_de_A_sup_66</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>68</constant>
+	<list></list>
+</condition>
+<condition name="00jon_de_A_sup_75">
+	<descriptible>
+		<nickname>00jon_de_A_sup_75</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>13</key>
+	<symbol>&gt;</symbol>
+	<constant>75</constant>
+	<list></list>
+</condition>
+<condition name="00jon_dungeon">
+	<descriptible>
+		<nickname>00jon_dungeon</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>98</key>
+	<symbol>&gt;</symbol>
+	<constant>20</constant>
+	<list></list>
+</condition>
+<condition name="00jon_end_stone">
+	<descriptible>
+		<nickname>00jon_end_stone</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>121</key>
+	<symbol>&gt;</symbol>
+	<constant>10</constant>
+	<list></list>
+</condition>
+<condition name="00jon_feuille">
+	<descriptible>
+		<nickname>00jon_feuille</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>18</key>
+	<symbol>&gt;</symbol>
+	<constant>15</constant>
+	<list></list>
+</condition>
+<condition name="00jon_lumiere_off">
+	<descriptible>
+		<nickname>00jon_lumiere_off</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>0</key>
+	<symbol>==</symbol>
+	<constant>0</constant>
+	<list></list>
+</condition>
+<condition name="00jon_ocean">
+	<descriptible>
+		<nickname>00jon_ocean</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>9</key>
+	<symbol>&gt;</symbol>
+	<constant>100</constant>
+	<list></list>
+</condition>
+<condition name="00jon_player_in_nether">
+	<descriptible>
+		<nickname>00jon_player_in_nether</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>10</key>
+	<symbol>==</symbol>
+	<constant>1</constant>
+	<list></list>
+</condition>
+<condition name="00jon_roche">
+	<descriptible>
+		<nickname>00jon_roche</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>1</key>
+	<symbol>&gt;</symbol>
+	<constant>555</constant>
+	<list></list>
+</condition>
+<condition name="00jon_sandstone">
+	<descriptible>
+		<nickname>00jon_sandstone</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>24</key>
+	<symbol>&gt;</symbol>
+	<constant>15</constant>
+	<list></list>
+</condition>
+<condition name="00jon_snow">
+	<descriptible>
+		<nickname>00jon_snow</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>78</key>
+	<symbol>&gt;</symbol>
+	<constant>5</constant>
+	<list></list>
+</condition>
+<condition name="00jon_vigne">
+	<descriptible>
+		<nickname>00jon_vigne</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>106</key>
+	<symbol>&gt;</symbol>
+	<constant>15</constant>
+	<list></list>
+</condition>
+<condition name="time is 13500">
+	<descriptible>
+		<nickname>time is 13500</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>3</key>
+	<symbol>==</symbol>
+	<constant>13500</constant>
+	<list></list>
+</condition>
+<condition name="time is 19000">
+	<descriptible>
+		<nickname>time is 19000</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>3</key>
+	<symbol>==</symbol>
+	<constant>19000</constant>
+	<list></list>
+</condition>
+<condition name="time is 500">
+	<descriptible>
+		<nickname>time is 500</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>3</key>
+	<symbol>==</symbol>
+	<constant>500</constant>
+	<list></list>
+</condition>
+<condition name="time is 5000">
+	<descriptible>
+		<nickname>time is 5000</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>3</key>
+	<symbol>==</symbol>
+	<constant>5000</constant>
+	<list></list>
+</condition>
+<condition name="time is 9500">
+	<descriptible>
+		<nickname>time is 9500</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<sheet>Instants</sheet>
+	<key>3</key>
+	<symbol>==</symbol>
+	<constant>9500</constant>
+	<list></list>
+</condition>
+<set name="00Jammer_village">
+	<descriptible>
+		<nickname>00Jammer_village</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_count_gravel</truepart>
+</set>
+<set name="00jon_cavern_S1_M1">
+	<descriptible>
+		<nickname>00jon_cavern_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S1_M2">
+	<descriptible>
+		<nickname>00jon_cavern_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S1_M3">
+	<descriptible>
+		<nickname>00jon_cavern_S1_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S1_M4">
+	<descriptible>
+		<nickname>00jon_cavern_S1_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S2_M1">
+	<descriptible>
+		<nickname>00jon_cavern_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_roche</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S2_M2">
+	<descriptible>
+		<nickname>00jon_cavern_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_roche</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S2_M3">
+	<descriptible>
+		<nickname>00jon_cavern_S2_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S2_M4">
+	<descriptible>
+		<nickname>00jon_cavern_S2_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_roche</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S3_M1">
+	<descriptible>
+		<nickname>00jon_cavern_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S3_M2">
+	<descriptible>
+		<nickname>00jon_cavern_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S3_M3">
+	<descriptible>
+		<nickname>00jon_cavern_S3_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S3_M4">
+	<descriptible>
+		<nickname>00jon_cavern_S3_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S4_M1">
+	<descriptible>
+		<nickname>00jon_cavern_S4_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S4_M2">
+	<descriptible>
+		<nickname>00jon_cavern_S4_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>time is 19000</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S4_M3">
+	<descriptible>
+		<nickname>00jon_cavern_S4_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S4_M4">
+	<descriptible>
+		<nickname>00jon_cavern_S4_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>time is 19000</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S6_M1">
+	<descriptible>
+		<nickname>00jon_cavern_S6_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S6_M2">
+	<descriptible>
+		<nickname>00jon_cavern_S6_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S6_M3">
+	<descriptible>
+		<nickname>00jon_cavern_S6_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_cavern_S6_M4">
+	<descriptible>
+		<nickname>00jon_cavern_S6_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_roche</truepart>
+	<truepart>00jon_lumiere_off</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<falsepart>00jon_dungeon</falsepart>
+</set>
+<set name="00jon_desert_S1_M1">
+	<descriptible>
+		<nickname>00jon_desert_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_roche</falsepart>
+</set>
+<set name="00jon_desert_S1_M2">
+	<descriptible>
+		<nickname>00jon_desert_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_roche</falsepart>
+</set>
+<set name="00jon_desert_S1_M3">
+	<descriptible>
+		<nickname>00jon_desert_S1_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_roche</falsepart>
+</set>
+<set name="00jon_desert_S1_M4">
+	<descriptible>
+		<nickname>00jon_desert_S1_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_roche</falsepart>
+</set>
+<set name="00jon_desert_S2_M1">
+	<descriptible>
+		<nickname>00jon_desert_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S2_M2">
+	<descriptible>
+		<nickname>00jon_desert_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S2_M3">
+	<descriptible>
+		<nickname>00jon_desert_S2_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S2_M4">
+	<descriptible>
+		<nickname>00jon_desert_S2_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S3_M1">
+	<descriptible>
+		<nickname>00jon_desert_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S3_M2">
+	<descriptible>
+		<nickname>00jon_desert_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S3_M3">
+	<descriptible>
+		<nickname>00jon_desert_S3_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_desert_S3_M4">
+	<descriptible>
+		<nickname>00jon_desert_S3_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+</set>
+<set name="00jon_dungeon_S1">
+	<descriptible>
+		<nickname>00jon_dungeon_S1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_dungeon</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_dungeon_S2">
+	<descriptible>
+		<nickname>00jon_dungeon_S2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_dungeon</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+</set>
+<set name="00jon_dungeon_S3">
+	<descriptible>
+		<nickname>00jon_dungeon_S3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_dungeon</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_dungeon_S4">
+	<descriptible>
+		<nickname>00jon_dungeon_S4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_dungeon</truepart>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_dungeon_S5">
+	<descriptible>
+		<nickname>00jon_dungeon_S5</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_dungeon</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+	<truepart>time is 19000</truepart>
+</set>
+<set name="00jon_hell_S1_M1">
+	<descriptible>
+		<nickname>00jon_hell_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+</set>
+<set name="00jon_hell_S1_M2">
+	<descriptible>
+		<nickname>00jon_hell_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_hell_S2_M1">
+	<descriptible>
+		<nickname>00jon_hell_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_hell_S2_M2">
+	<descriptible>
+		<nickname>00jon_hell_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_hell_S3_M1">
+	<descriptible>
+		<nickname>00jon_hell_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_hell_S3_M2">
+	<descriptible>
+		<nickname>00jon_hell_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_hell_S4_M1">
+	<descriptible>
+		<nickname>00jon_hell_S4_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+</set>
+<set name="00jon_hell_S4_M2">
+	<descriptible>
+		<nickname>00jon_hell_S4_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_hell_S5_M1">
+	<descriptible>
+		<nickname>00jon_hell_S5_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_hell_S5_M2">
+	<descriptible>
+		<nickname>00jon_hell_S5_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_player_in_nether</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<truepart>time is 19000</truepart>
+</set>
+<set name="00jon_jungle_night_S1">
+	<descriptible>
+		<nickname>00jon_jungle_night_S1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+	<truepart>00jon_vigne</truepart>
+	<truepart>00jon_feuille</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_jungle_night_S2">
+	<descriptible>
+		<nickname>00jon_jungle_night_S2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_vigne</truepart>
+	<truepart>00jon_feuille</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<truepart>time is 19000</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S1_M1">
+	<descriptible>
+		<nickname>00jon_neige_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S1_M2">
+	<descriptible>
+		<nickname>00jon_neige_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S1_M3">
+	<descriptible>
+		<nickname>00jon_neige_S1_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S1_M4">
+	<descriptible>
+		<nickname>00jon_neige_S1_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S2_M1">
+	<descriptible>
+		<nickname>00jon_neige_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S2_M2">
+	<descriptible>
+		<nickname>00jon_neige_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S2_M3">
+	<descriptible>
+		<nickname>00jon_neige_S2_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S2_M4">
+	<descriptible>
+		<nickname>00jon_neige_S2_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S3_M1">
+	<descriptible>
+		<nickname>00jon_neige_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_inf_15</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S3_M2">
+	<descriptible>
+		<nickname>00jon_neige_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_15</truepart>
+	<truepart>00jon_de_A4_inf_30</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S3_M3">
+	<descriptible>
+		<nickname>00jon_neige_S3_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_30</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_neige_S3_M4">
+	<descriptible>
+		<nickname>00jon_neige_S3_M4</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A4_sup_85</truepart>
+	<truepart>00jon_snow</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_ocean_S1_M1">
+	<descriptible>
+		<nickname>00jon_ocean_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_ocean</truepart>
+	<truepart>time is 500</truepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_ocean_S1_M2">
+	<descriptible>
+		<nickname>00jon_ocean_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_ocean</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_ocean_S2_M1">
+	<descriptible>
+		<nickname>00jon_ocean_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_ocean</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_ocean_S2_M2">
+	<descriptible>
+		<nickname>00jon_ocean_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_ocean</truepart>
+	<truepart>time is 5000</truepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_ocean_S3_M1">
+	<descriptible>
+		<nickname>00jon_ocean_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_ocean</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_ocean_S3_M2">
+	<descriptible>
+		<nickname>00jon_ocean_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_ocean</truepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_play_night_S1_M1">
+	<descriptible>
+		<nickname>00jon_play_night_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_sup_25</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_play_night_S1_M2">
+	<descriptible>
+		<nickname>00jon_play_night_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_sup_75</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_play_night_S1_M3">
+	<descriptible>
+		<nickname>00jon_play_night_S1_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_play_night_S1_M3_D">
+	<descriptible>
+		<nickname>00jon_play_night_S1_M3_D</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_play_night_S2_M1">
+	<descriptible>
+		<nickname>00jon_play_night_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A_sup_25</truepart>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_play_night_S2_M2">
+	<descriptible>
+		<nickname>00jon_play_night_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_de_A_sup_75</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_play_night_S2_M3">
+	<descriptible>
+		<nickname>00jon_play_night_S2_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<truepart>time is 19000</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_play_night_S2_M3_D">
+	<descriptible>
+		<nickname>00jon_play_night_S2_M3_D</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_sandstone</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_player_in_a_forest_S1_M1">
+	<descriptible>
+		<nickname>00jon_player_in_a_forest_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_feuille</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_player_in_a_forest_S1_M2">
+	<descriptible>
+		<nickname>00jon_player_in_a_forest_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_feuille</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_player_in_a_forest_S2_M1">
+	<descriptible>
+		<nickname>00jon_player_in_a_forest_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_feuille</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_player_in_a_forest_S2_M2">
+	<descriptible>
+		<nickname>00jon_player_in_a_forest_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_feuille</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_player_in_a_forest_S3_M1">
+	<descriptible>
+		<nickname>00jon_player_in_a_forest_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_feuille</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_player_in_a_forest_S3_M2">
+	<descriptible>
+		<nickname>00jon_player_in_a_forest_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_feuille</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_player_in_a_village_S1_M1">
+	<descriptible>
+		<nickname>00jon_player_in_a_village_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_count_gravel</truepart>
+</set>
+<set name="00jon_player_in_a_village_S1_M2">
+	<descriptible>
+		<nickname>00jon_player_in_a_village_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_count_gravel</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_player_in_a_village_S2_M1">
+	<descriptible>
+		<nickname>00jon_player_in_a_village_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<truepart>00jon_count_gravel</truepart>
+</set>
+<set name="00jon_player_in_a_village_S2_M2">
+	<descriptible>
+		<nickname>00jon_player_in_a_village_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_count_gravel</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+</set>
+<set name="00jon_player_in_a_village_S3_M1">
+	<descriptible>
+		<nickname>00jon_player_in_a_village_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_count_gravel</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_player_in_a_village_S3_M2">
+	<descriptible>
+		<nickname>00jon_player_in_a_village_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_count_vitre</truepart>
+	<truepart>00jon_count_roof</truepart>
+	<truepart>00jon_count_gravel</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_player_in_jungle_S1">
+	<descriptible>
+		<nickname>00jon_player_in_jungle_S1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+	<truepart>00jon_vigne</truepart>
+	<truepart>00jon_feuille</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_player_in_jungle_S2">
+	<descriptible>
+		<nickname>00jon_player_in_jungle_S2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_vigne</truepart>
+	<truepart>00jon_feuille</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_player_in_jungle_S3">
+	<descriptible>
+		<nickname>00jon_player_in_jungle_S3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+	<truepart>00jon_vigne</truepart>
+	<truepart>00jon_feuille</truepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+</set>
+<set name="00jon_player_in_plain_S1_M1">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S1_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S1_M2">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S1_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_sup_25</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S1_M3">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S1_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_sup_75</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S2_M1">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S2_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+	<falsepart>00jon_snow</falsepart>
+</set>
+<set name="00jon_player_in_plain_S2_M2">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S2_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_sup_25</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S2_M3">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S2_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_sup_75</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S3_M1">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S3_M1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A_inf_25</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S3_M2">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S3_M2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A_sup_25</truepart>
+	<truepart>00jon_de_A_inf_45</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_player_in_plain_S3_M3">
+	<descriptible>
+		<nickname>00jon_player_in_plain_S3_M3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_de_A_sup_75</truepart>
+	<falsepart>00jon_end_stone</falsepart>
+	<falsepart>00jon_ocean</falsepart>
+	<falsepart>00jon_roche</falsepart>
+	<falsepart>00jon_vigne</falsepart>
+	<falsepart>00jon_lumiere_off</falsepart>
+	<falsepart>00jon_feuille</falsepart>
+	<falsepart>00jon_snow</falsepart>
+	<falsepart>00jon_sandstone</falsepart>
+</set>
+<set name="00jon_the_end_S1">
+	<descriptible>
+		<nickname>00jon_the_end_S1</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_end_stone</truepart>
+	<truepart>00jon_air_40</truepart>
+	<truepart>time is 500</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_the_end_S2">
+	<descriptible>
+		<nickname>00jon_the_end_S2</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_end_stone</truepart>
+	<truepart>00jon_air_40</truepart>
+	<truepart>time is 5000</truepart>
+	<truepart>00jon_de_A_sup_66</truepart>
+</set>
+<set name="00jon_the_end_S3">
+	<descriptible>
+		<nickname>00jon_the_end_S3</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>time is 9500</truepart>
+	<truepart>00jon_end_stone</truepart>
+	<truepart>00jon_air_40</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<set name="00jon_the_end_S5">
+	<descriptible>
+		<nickname>00jon_the_end_S5</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_end_stone</truepart>
+	<truepart>00jon_air_40</truepart>
+	<truepart>time is 19000</truepart>
+	<truepart>00jon_de_A_inf_33</truepart>
+</set>
+<set name="00jon_the_end_S6">
+	<descriptible>
+		<nickname>00jon_the_end_S6</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<truepart>00jon_end_stone</truepart>
+	<truepart>00jon_air_40</truepart>
+	<truepart>time is 13500</truepart>
+	<truepart>00jon_de_A_inf_50</truepart>
+</set>
+<machine name="00jon_music_a_desert_night">
+	<descriptible>
+		<nickname>00jon_music_a_desert_night</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_play_night_S1_M3_D</allow>
+	<allow>00jon_play_night_S2_M3_D</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/a_desert_night.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_a_night_A">
+	<descriptible>
+		<nickname>00jon_music_a_night_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_play_night_S1_M2</allow>
+	<allow>00jon_play_night_S2_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/a_night_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_a_night_B">
+	<descriptible>
+		<nickname>00jon_music_a_night_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_play_night_S1_M1</allow>
+	<allow>00jon_play_night_S2_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/a_night_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_a_night_C">
+	<descriptible>
+		<nickname>00jon_music_a_night_C</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_play_night_S1_M3</allow>
+	<allow>00jon_play_night_S2_M3</allow>
+	<stream>
+		<path>matmos_MSI/music/a_night_C.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_a_village_A">
+	<descriptible>
+		<nickname>00jon_music_a_village_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_a_village_S1_M1</allow>
+	<allow>00jon_player_in_a_village_S2_M1</allow>
+	<allow>00jon_player_in_a_village_S3_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/a_village_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_a_village_B">
+	<descriptible>
+		<nickname>00jon_music_a_village_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_a_village_S1_M2</allow>
+	<allow>00jon_player_in_a_village_S2_M2</allow>
+	<allow>00jon_player_in_a_village_S3_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/a_village_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_forest_A">
+	<descriptible>
+		<nickname>00jon_music_forest_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_a_forest_S1_M1</allow>
+	<allow>00jon_player_in_a_forest_S2_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/forest_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_forest_B">
+	<descriptible>
+		<nickname>00jon_music_forest_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_a_forest_S1_M2</allow>
+	<allow>00jon_player_in_a_forest_S2_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/forest_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_hell_A">
+	<descriptible>
+		<nickname>00jon_music_hell_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_hell_S1_M1</allow>
+	<allow>00jon_hell_S2_M1</allow>
+	<allow>00jon_hell_S3_M1</allow>
+	<allow>00jon_hell_S4_M1</allow>
+	<allow>00jon_hell_S5_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/hell_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_hell_B">
+	<descriptible>
+		<nickname>00jon_music_hell_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_hell_S1_M2</allow>
+	<allow>00jon_hell_S2_M2</allow>
+	<allow>00jon_hell_S3_M2</allow>
+	<allow>00jon_hell_S4_M2</allow>
+	<allow>00jon_hell_S5_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/hell_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_in_the_wild_A">
+	<descriptible>
+		<nickname>00jon_music_in_the_wild_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_plain_S1_M1</allow>
+	<allow>00jon_player_in_plain_S2_M1</allow>
+	<allow>00jon_player_in_plain_S3_M1</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/in_the_wild_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>5.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_in_the_wild_B">
+	<descriptible>
+		<nickname>00jon_music_in_the_wild_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_plain_S1_M2</allow>
+	<allow>00jon_player_in_plain_S2_M2</allow>
+	<allow>00jon_player_in_plain_S3_M2</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/in_the_wild_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>5.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_in_the_wild_C">
+	<descriptible>
+		<nickname>00jon_music_in_the_wild_C</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_plain_S2_M3</allow>
+	<allow>00jon_player_in_plain_S1_M3</allow>
+	<allow>00jon_player_in_plain_S3_M3</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/in_the_wild_C.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>5.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_jungle_move">
+	<descriptible>
+		<nickname>00jon_music_jungle_move</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_player_in_jungle_S2</allow>
+	<allow>00jon_player_in_jungle_S3</allow>
+	<allow>00jon_player_in_jungle_S1</allow>
+	<stream>
+		<path>matmos_MSI/music/jungle_move.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_jungle_night">
+	<descriptible>
+		<nickname>00jon_music_jungle_night</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_jungle_night_S1</allow>
+	<allow>00jon_jungle_night_S2</allow>
+	<stream>
+		<path>matmos_MSI/music/jungle_night.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>6.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_pirate_A">
+	<descriptible>
+		<nickname>00jon_music_pirate_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_ocean_S1_M1</allow>
+	<allow>00jon_ocean_S2_M1</allow>
+	<allow>00jon_ocean_S3_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/pirate_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_pirate_B">
+	<descriptible>
+		<nickname>00jon_music_pirate_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_ocean_S1_M2</allow>
+	<allow>00jon_ocean_S2_M2</allow>
+	<allow>00jon_ocean_S3_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/pirate_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_snow_A">
+	<descriptible>
+		<nickname>00jon_music_snow_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_neige_S1_M1</allow>
+	<allow>00jon_neige_S2_M1</allow>
+	<allow>00jon_neige_S3_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/snow_A.ogg</path>
+		<volume>2.0</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_snow_B">
+	<descriptible>
+		<nickname>00jon_music_snow_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_neige_S3_M2</allow>
+	<allow>00jon_neige_S2_M2</allow>
+	<allow>00jon_neige_S1_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/snow_B.ogg</path>
+		<volume>1.0</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_snow_C">
+	<descriptible>
+		<nickname>00jon_music_snow_C</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_neige_S1_M3</allow>
+	<allow>00jon_neige_S2_M3</allow>
+	<allow>00jon_neige_S3_M3</allow>
+	<stream>
+		<path>matmos_MSI/music/snow_C.ogg</path>
+		<volume>1.0</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_snow_desert_crossing">
+	<descriptible>
+		<nickname>00jon_music_snow_desert_crossing</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_desert_S1_M2</allow>
+	<allow>00jon_desert_S2_M2</allow>
+	<allow>00jon_desert_S3_M2</allow>
+	<allow>00jon_neige_S3_M4</allow>
+	<allow>00jon_neige_S2_M4</allow>
+	<allow>00jon_neige_S1_M4</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/snow_desert_crossing.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_the_desert_A">
+	<descriptible>
+		<nickname>00jon_music_the_desert_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_desert_S1_M1</allow>
+	<allow>00jon_desert_S2_M1</allow>
+	<allow>00jon_desert_S3_M1</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/the_desert_A.ogg</path>
+		<volume>1.0</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_the_desert_B">
+	<descriptible>
+		<nickname>00jon_music_the_desert_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_desert_S1_M3</allow>
+	<allow>00jon_desert_S2_M3</allow>
+	<allow>00jon_desert_S3_M3</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/the_desert_B.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_the_desert_C">
+	<descriptible>
+		<nickname>00jon_music_the_desert_C</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_desert_S1_M4</allow>
+	<allow>00jon_desert_S2_M4</allow>
+	<allow>00jon_desert_S3_M4</allow>
+	<restrict>00Jammer_village</restrict>
+	<stream>
+		<path>matmos_MSI/music/the_desert_C.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_the_dragon_slaughter">
+	<descriptible>
+		<nickname>00jon_music_the_dragon_slaughter</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_the_end_S1</allow>
+	<allow>00jon_the_end_S2</allow>
+	<allow>00jon_the_end_S3</allow>
+	<allow>00jon_the_end_S6</allow>
+	<allow>00jon_the_end_S5</allow>
+	<stream>
+		<path>matmos_MSI/music/the_dragon_slaughter.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_the_dungeon">
+	<descriptible>
+		<nickname>00jon_music_the_dungeon</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_dungeon_S1</allow>
+	<allow>00jon_dungeon_S2</allow>
+	<allow>00jon_dungeon_S4</allow>
+	<allow>00jon_dungeon_S5</allow>
+	<allow>00jon_dungeon_S3</allow>
+	<stream>
+		<path>matmos_MSI/music/the_dungeon.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_underground_cave_A">
+	<descriptible>
+		<nickname>00jon_music_underground_cave_A</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_cavern_S1_M1</allow>
+	<allow>00jon_cavern_S2_M1</allow>
+	<allow>00jon_cavern_S3_M1</allow>
+	<allow>00jon_cavern_S4_M1</allow>
+	<allow>00jon_cavern_S6_M1</allow>
+	<stream>
+		<path>matmos_MSI/music/underground_cave_A.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_underground_cave_B">
+	<descriptible>
+		<nickname>00jon_music_underground_cave_B</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_cavern_S1_M2</allow>
+	<allow>00jon_cavern_S2_M2</allow>
+	<allow>00jon_cavern_S3_M2</allow>
+	<allow>00jon_cavern_S4_M2</allow>
+	<allow>00jon_cavern_S6_M2</allow>
+	<stream>
+		<path>matmos_MSI/music/underground_cave_B.ogg</path>
+		<volume>0.5</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>0.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_underground_cave_C">
+	<descriptible>
+		<nickname>00jon_music_underground_cave_C</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_cavern_S1_M3</allow>
+	<allow>00jon_cavern_S2_M3</allow>
+	<allow>00jon_cavern_S3_M3</allow>
+	<allow>00jon_cavern_S4_M3</allow>
+	<allow>00jon_cavern_S6_M3</allow>
+	<stream>
+		<path>matmos_MSI/music/underground_cave_C.ogg</path>
+		<volume>0.7</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>4.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+<machine name="00jon_music_underground_cave_D">
+	<descriptible>
+		<nickname>00jon_music_underground_cave_D</nickname>
+		<description></description>
+		<icon></icon>
+		<meta></meta>
+	</descriptible>
+	<allow>00jon_cavern_S4_M4</allow>
+	<allow>00jon_cavern_S2_M4</allow>
+	<allow>00jon_cavern_S3_M4</allow>
+	<allow>00jon_cavern_S6_M4</allow>
+	<allow>00jon_cavern_S1_M4</allow>
+	<stream>
+		<path>matmos_MSI/music/underground_cave_D.ogg</path>
+		<volume>0.5</volume>
+		<pitch>1.0</pitch>
+		<fadeintime>2.0</fadeintime>
+		<fadeouttime>20.0</fadeouttime>
+		<delaybeforefadein>0.0</delaybeforefadein>
+		<delaybeforefadeout>220.0</delaybeforefadeout>
+		<islooping>0</islooping>
+		<isusingpause>0</isusingpause>
+	</stream>
+</machine>
+</contents>

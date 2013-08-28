@@ -1,0 +1,14 @@
+# UgoCraft config
+Block_size=1024
+Block_length=50
+Block_id.Core=211
+Block_id.Marker=210
+Block_id.Block_with_plate=212
+Item_id.Control_panel=12800
+Item_id.Plate=12801
+Entity_id.Ugo_object=70
+Entity_id.Ugo_object_block=71
+Gui_id.Core_fuel=105
+Enable_delete_mode_control_panel=false
+Sync_count=2
+Debug_message=false
