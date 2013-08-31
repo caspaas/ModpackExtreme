@@ -1,0 +1,1447 @@
+id : 41, Block of Gold, cv : 36864
+id : 42, Block of Iron, cv : 9216
+id : 57, Block of Diamond, cv : 147456
+id : 133, Block of Emerald, cv : 73728
+id : 22, Lapis Lazuli Block, cv : 2304
+id : 152, Block of Redstone, cv : 1152
+id : 173, Block of Coal, cv : 1170
+id : 170, Hay Bale, cv : 288
+id : 103, Melon, cv : 576
+id : 130, Ender Chest, cv : 512
+id : 61, Furnace, cv : -1
+id : 123, Redstone Lamp, cv : 512
+id : 138, Beacon, cv : 147658
+id : 299, Leather Tunic, cv : 512
+id : 300, Leather Pants, cv : 448
+id : 303, Chain Chestplate, cv : -1
+id : 304, Chain Leggings, cv : -1
+id : 307, Iron Chestplate, cv : 8192
+id : 308, Iron Leggings, cv : 7168
+id : 311, Diamond Chestplate, cv : 131072
+id : 312, Diamond Leggings, cv : 114688
+id : 315, Golden Chestplate, cv : 32768
+id : 316, Golden Leggings, cv : 28672
+id : 395, Empty Map, cv : -1
+id : 420, Lead, cv : 160
+id : 46, TNT, cv : 648
+id : 354, Cake, cv : 128
+id : 28, Detector Rail, cv : 1045
+id : 380, Cauldron, cv : 7168
+id : 53, Oak Wood Stairs, cv : -1
+id : 135, Birch Wood Stairs, cv : -1
+id : 134, Spruce Wood Stairs, cv : -1
+id : 136, Jungle Wood Stairs, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 108, Brick Stairs, cv : -1
+id : 109, Stone Brick Stairs, cv : 3
+id : 114, Nether Brick Stairs, cv : -1
+id : 128, Sandstone Stairs, cv : -1
+id : 156, Quartz Stairs, cv : -1
+id : 322&0, Golden Apple, cv : 32832
+id : 396, Golden Carrot, cv : 32
+id : 382, Glistering Melon, cv : 64
+id : 404, Redstone Comparator, cv : 134
+id : 347, Clock, cv : 16512
+id : 345, Compass, cv : 4224
+id : 395, Empty Map, cv : 4224
+id : 23, Dispenser, cv : 128
+id : 158, Dropper, cv : 128
+id : 116, Enchantment Table, cv : 33024
+id : 145&0, Anvil, cv : 31744
+id : 151, Daylight Sensor, cv : 390
+id : 154, Hopper, cv : 5120
+id : 101, Iron Bars, cv : 384
+id : 102, Glass Pane, cv : -1
+id : 298, Leather Cap, cv : 320
+id : 301, Leather Boots, cv : 256
+id : 302, Chain Helmet, cv : -1
+id : 305, Chain Boots, cv : -1
+id : 306, Iron Helmet, cv : 5120
+id : 309, Iron Boots, cv : 4096
+id : 310, Diamond Helmet, cv : 81920
+id : 313, Diamond Boots, cv : 65536
+id : 314, Golden Helmet, cv : 20480
+id : 317, Golden Boots, cv : 16384
+id : 139&0, Cobblestone Wall, cv : -1
+id : 139&1, Mossy Cobblestone Wall, cv : 12
+id : 330, Iron Door, cv : 6144
+id : 374, Glass Bottle, cv : 2
+id : 328, Minecart, cv : 5120
+id : 379, Brewing Stand, cv : 1024
+id : 325, Bucket, cv : 3072
+id : 390, Flower Pot, cv : 6
+id : 356, Redstone Repeater, cv : 134
+id : 359, Shears, cv : 2048
+id : 24&0, Sandstone, cv : 8
+id : 112, Nether Brick, cv : 4
+id : 80, Snow, cv : 4
+id : 82, Clay, cv : 8
+id : 45, Bricks, cv : 8
+id : 89, Glowstone, cv : 512
+id : 155&0, Block of Quartz, cv : 512
+id : 35&0, Wool, cv : 64
+id : 259, Flint and Steel, cv : 1026
+id : 398, Carrot on a Stick, cv : 32
+id : 357, Cookie, cv : 8
+id : 339, Paper, cv : 16
+id : 78&0, Snow, cv : 2
+id : 44&3, Cobblestone Slab, cv : -1
+id : 44&0, Stone Slab, cv : 1
+id : 126&0, Oak Wood Slab, cv : -1
+id : 126&2, Birch Wood Slab, cv : -1
+id : 126&1, Spruce Wood Slab, cv : -1
+id : 126&3, Jungle Wood Slab, cv : -1
+id : 297, Bread, cv : 96
+id : 146, Trapped Chest, cv : -1
+id : 171&0, Carpet, cv : 42
+id : 91, Jack o'Lantern, cv : 64
+id : 342, Minecart with Chest, cv : 5120
+id : 343, Minecart with Furnace, cv : 5120
+id : 407, Minecart with TNT, cv : 5768
+id : 408, Minecart with Hopper, cv : 10240
+id : 70, Pressure Plate, cv : 4
+id : 148, Weighted Pressure Plate (Heavy), cv : 2048
+id : 147, Weighted Pressure Plate (Light), cv : 8192
+id : 371, Gold Nugget, cv : 455
+id : 362, Melon Seeds, cv : 64
+id : 361, Pumpkin Seeds, cv : 16
+id : 353, Sugar, cv : 16
+id : 5&0, Oak Wood Planks, cv : 4
+id : 77, Button, cv : 2
+id : 340, Book, cv : 112
+id : 282, Mushroom Stew, cv : 4
+id : 400, Pumpkin Pie, cv : 112
+id : 376, Fermented Spider Eye, cv : 50
+id : 385, Fire Charge, cv : 86
+id : 378, Magma Cream, cv : 256
+id : 381, Eye of Ender, cv : 1024
+id : 377, Blaze Powder, cv : 512
+id : 1225&0, item.computer.name, cv : 142
+id : 1226&0, item.ccdiskdrive.name, cv : 270
+id : 1229&0, item.cccable.name, cv : 22
+id : 4257&0, item.ccdisk.name, cv : 144
+id : 4256&0, item.ccdisk.name, cv : 400
+id : 4258&1, item.ccpagemultiple.name, cv : 16
+id : 4258&2, item.ccbook.name, cv : 80
+id : 397&3, dan200's Head, cv : 142
+id : 43&0, Stone Slab, cv : 2
+id : 9264, Dark Iron Ingot, cv : -1
+id : 1002&3, Block of Dark Iron, cv : -1
+id : 9257, Bag of Holding, cv : 1216
+id : 9301, Logic Matrix: Identifier, cv : 128
+id : 9299, Logic Matrix Programmer, cv : -1
+id : 9263, Wrath Igniter, cv : 1
+id : 9270, Lead Ingot, cv : -1
+id : 9271, Silver Ingot, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 1000&0, Router, cv : 2080
+id : 9272, Item Filter, cv : 8320
+id : 9274, Speed Boost, cv : 192
+id : 9275, Thoroughness, cv : 20
+id : 9276, Bandwidth, cv : 2080
+id : 9318, Oak Wood Barrel, cv : 112
+id : 9318, HOPPING Oak Wood Barrel, cv : 10352
+id : 9318, LARGER Oak Wood Barrel, cv : 5344
+id : 9318, STICKY Oak Wood Barrel, cv : 368
+id : 9318, Spruce Wood Barrel, cv : 112
+id : 9318, HOPPING Spruce Wood Barrel, cv : 10352
+id : 9318, LARGER Spruce Wood Barrel, cv : 5344
+id : 9318, STICKY Spruce Wood Barrel, cv : 368
+id : 9318, Birch Wood Barrel, cv : 112
+id : 9318, HOPPING Birch Wood Barrel, cv : 10352
+id : 9318, LARGER Birch Wood Barrel, cv : 5344
+id : 9318, STICKY Birch Wood Barrel, cv : 368
+id : 9318, Jungle Wood Barrel, cv : 112
+id : 9318, HOPPING Jungle Wood Barrel, cv : 10352
+id : 9318, LARGER Jungle Wood Barrel, cv : 5344
+id : 9318, STICKY Jungle Wood Barrel, cv : 368
+id : 9280, Sulfuric Acid, cv : 386
+id : 9284, Fan, cv : 5120
+id : 9281, Magnet, cv : 15584
+id : 9289, Battery Block, cv : 4160
+id : 9294, Diamond Cutting Head, cv : 1024
+id : 186, tile.rejuvenator.name, cv : 125312
+id : 3002, item.scrollPack.name, cv : 295008
+id : 180, tile.alchemizer.name, cv : 41152
+id : 14257, item.PamWeeeFlowers:whiteflowerseedItem.name, cv : -1
+id : 14258, item.PamWeeeFlowers:orangeflowerseedItem.name, cv : -1
+id : 14259, item.PamWeeeFlowers:magentaflowerseedItem.name, cv : -1
+id : 14260, item.PamWeeeFlowers:lightblueflowerseedItem.name, cv : -1
+id : 14261, item.PamWeeeFlowers:yellowflowerseedItem.name, cv : 2
+id : 14262, item.PamWeeeFlowers:limeflowerseedItem.name, cv : -1
+id : 14263, item.PamWeeeFlowers:pinkflowerseedItem.name, cv : -1
+id : 14264, item.PamWeeeFlowers:darkgreyflowerseedItem.name, cv : -1
+id : 14265, item.PamWeeeFlowers:lightgreyflowerseedItem.name, cv : -1
+id : 14266, item.PamWeeeFlowers:cyanflowerseedItem.name, cv : -1
+id : 14267, item.PamWeeeFlowers:purpleflowerseedItem.name, cv : -1
+id : 14268, item.PamWeeeFlowers:blueflowerseedItem.name, cv : -1
+id : 14269, item.PamWeeeFlowers:brownflowerseedItem.name, cv : -1
+id : 14270, item.PamWeeeFlowers:greenflowerseedItem.name, cv : -1
+id : 14271, item.PamWeeeFlowers:redflowerseedItem.name, cv : 2
+id : 14272, item.PamWeeeFlowers:blackflowerseedItem.name, cv : -1
+id : 31739, item.Dirt Arrow.name, cv : 16
+id : 31738, item.Exploding Arrow.name, cv : 48
+id : 31737, item.Fire Arrow.name, cv : 48
+id : 31736, item.Seed Arrow.name, cv : 16
+id : 31735, item.Frost Arrow.name, cv : 16
+id : 31734, item.Penetrating Arrow.name, cv : 48
+id : 31732, item.Slime Arrow.name, cv : 80
+id : 31731, item.Torch Arrow.name, cv : 16
+id : 31730, item.Warp Arrow.name, cv : 32
+id : 31740, item.Confusing Arrow.name, cv : 16
+id : 31733, item.Rope Arrow.name, cv : 16
+id : 908&0, item.SC2batteries.name, cv : 17280
+id : 3242, tile.tconstruct.meatblock.name, cv : 572
+id : 1489&1, block.brownstone.rough.road.name, cv : -1
+id : 1489&3, block.brownstone.smooth.brick.name, cv : -1
+id : 1489&4, block.brownstone.smooth.road.name, cv : -1
+id : 1489&5, block.brownstone.smooth.fancy.name, cv : -1
+id : 1489&6, block.brownstone.smooth.chiseled.name, cv : -1
+id : 1481&0, block.brick.obsidian.name, cv : 64
+id : 1467&0, block.fancybrick.obsidian.name, cv : 64
+id : 1474&6, Smeltery.Paver.name, cv : -1
+id : 1474&11, Smeltery.Brick.Square.name, cv : -1
+id : 1474&2, Smeltery.Brick.name, cv : -1
+id : 1474&8, Smeltery.Road.name, cv : -1
+id : 1474&9, Smeltery.Brick.Fancy.name, cv : -1
+id : 1474&10, Smeltery.Brick.Square.name, cv : -1
+id : 1468&0, tile.ToolForge.name, cv : 36864
+id : 1471&0, ToolStation.Crafter.name, cv : -1
+id : 1471&1, ToolStation.Parts.name, cv : 16
+id : 1471&2, ToolStation.Parts.name, cv : 16
+id : 1471&3, ToolStation.Parts.name, cv : 16
+id : 1471&4, ToolStation.Parts.name, cv : 16
+id : 1471&5, ToolStation.PatternChest.name, cv : -1
+id : 1471&10, ToolStation.PatternShaper.name, cv : 4
+id : 1471&11, ToolStation.PatternShaper.name, cv : 4
+id : 1471&12, ToolStation.PatternShaper.name, cv : 4
+id : 1471&13, ToolStation.PatternShaper.name, cv : 4
+id : 14274&0, item.tconstruct.manual.beginner.name, cv : 16
+id : 14276&0, item.tconstruct.Materials.PaperStack.name, cv : 64
+id : 1476&0, CraftedSoil.Slime.name, cv : 1028
+id : 1474&0, Smeltery.Controller.name, cv : 512
+id : 1473&0, LavaTank.Tank.name, cv : 514
+id : 1477&0, SearedBlock.Table.name, cv : 448
+id : 1484, tile.decoration.stonetorch.name, cv : 32
+id : 14277&1, item.tconstruct.ToolRod.Stone.name, cv : 1
+id : 14363&0, item.food.apple.diamond.name, cv : 65600
+id : 14361&2, item.tconstruct.canister.heart.name, cv : 65664
+id : 14368&0, item.tconstruct.storage.knapsack.name, cv : 4480
+id : 14369&0, item.goldenhead.name, cv : 3782
+id : 3231&0, block.brownstone.rough.slab.name, cv : -1
+id : 3231&1, block.brownstone.rough.road.slab.name, cv : -1
+id : 3231&2, block.brownstone.smooth.slab.name, cv : -1
+id : 3231&3, block.brownstone.smooth.brick.slab.name, cv : -1
+id : 3231&4, block.brownstone.smooth.road.slab.name, cv : -1
+id : 3231&5, block.brownstone.smooth.fancy.slab.name, cv : -1
+id : 3231&6, block.brownstone.smooth.chiseled.slab.name, cv : -1
+id : 3230&0, block.searedstone.slab.brick.name, cv : 256
+id : 3232, tile.trap.punji.name, cv : 16
+id : 1469, tile.trap.barricade.oak.name, cv : 32
+id : 1482, tile.trap.barricade.spruce.name, cv : 32
+id : 1483, tile.trap.barricade.birch.name, cv : 32
+id : 1487, tile.trap.barricade.jungle.name, cv : 32
+id : 3233, tile.CraftingStation.name, cv : -1
+id : 3243&0, tile.CraftingStation.name, cv : -1
+id : 3243&1, ToolStation.Crafter.name, cv : -1
+id : 3243&2, ToolStation.Parts.name, cv : 16
+id : 3243&4, ToolStation.PatternChest.name, cv : -1
+id : 3243&3, ToolStation.PatternShaper.name, cv : 4
+id : 3243&5, tile.ToolForge.name, cv : 36864
+id : 23257, item.itemtablewood.name, cv : 20
+id : 23277, item.itemtablestone.name, cv : -1
+id : 23258, item.itemchairwood.name, cv : 24
+id : 23276, item.itemchairstone.name, cv : -1
+id : 23262, item.cfm:itemcouchwhite.name, cv : 384
+id : 23263, item.itemcouchgreen.name, cv : 384
+id : 23264, item.itemcouchbrown.name, cv : 384
+id : 23265, item.itemcouchred.name, cv : 384
+id : 23266, item.itemcouchblack.name, cv : 384
+id : 23261, item.itemfridge.name, cv : 64512
+id : 23259, item.itemcabinet.name, cv : 32
+id : 23268, item.itemcurtains.name, cv : 4256
+id : 23267, item.itemblinds.name, cv : -1
+id : 23275, item.itemcoolpack.name, cv : 8
+id : 23260, item.itemcoffeetablewood.name, cv : 20
+id : 23278, item.itemcoffeetablestone.name, cv : -1
+id : 23274, item.itemlamp.name, cv : 448
+id : 23256, item.itembedsidecabinet.name, cv : 28
+id : 23279, item.itemoven.name, cv : 73728
+id : 23280, item.itemovenoverhead.name, cv : 4608
+id : 23283, item.itemhedgebasic.name, cv : -1
+id : 23284, item.itemhedgespruce.name, cv : -1
+id : 23285, item.itemhedgebirch.name, cv : -1
+id : 23286, item.itemhedgejungle.name, cv : -1
+id : 23287, item.itembirdbath.name, cv : 10
+id : 23288, item.itemstonepath.name, cv : -1
+id : 23290, item.itemtap.name, cv : 1032
+id : 23291, item.itemmailbox.name, cv : 136
+id : 23292, item.itemenvelope.name, cv : 32
+id : 23295, item.itempackage.name, cv : 96
+id : 23305, item.itemdoorbell.name, cv : 2
+id : 23289, item.itemwhitefence.name, cv : -1
+id : 1741&0, Rotary Macerator, cv : -1
+id : 1741&2, Centrifuge Extractor, cv : -1
+id : 1741&1, Singularity Compressor, cv : 448
+id : 4089&1, LXP Absorber, cv : 3090
+id : 4089&2, LXP Catalyzer, cv : 52228
+id : 4089&0, LXP Collector, cv : 16398
+id : 26791&0, Empty Medallion, cv : 4096
+id : 16517, Screwdriver, cv : 2050
+id : 1690&0, Red alloy wire, cv : 112
+id : 583&0, AND gate, cv : 128
+id : 882&0, White indicator lamp, cv : 269
+id : 2303&0, White lamp, cv : 653
+id : 3502&0, White decorative lamp, cv : 525
+id : 13700, Hacksaw, cv : 36864
+id : 19362, Wrench, cv : 3072
+id : 19356, Wood Gear, cv : -1
+id : 19357, Stone Gear, cv : -1
+id : 19358, Iron Gear, cv : 4096
+id : 19359, Gold Gear, cv : 20480
+id : 19360, Diamond Gear, cv : 86016
+id : 19365, Pipe Sealant, cv : 1
+id : 19436, Wooden Fluid Pipe, cv : 1
+id : 19416, Wooden Transport Pipe, cv : 1
+id : 19437, Cobblestone Fluid Pipe, cv : 1
+id : 19417, Cobblestone Transport Pipe, cv : 1
+id : 19438, Stone Fluid Pipe, cv : 1
+id : 19418, Stone Transport Pipe, cv : 1
+id : 19439, Iron Fluid Pipe, cv : 1
+id : 19419, Iron Transport Pipe, cv : 1
+id : 19440, Golden Fluid Pipe, cv : 1
+id : 19420, Golden Transport Pipe, cv : 1
+id : 19443, Emerald Fluid Pipe, cv : 1
+id : 19423, Emerald Transport Pipe, cv : 1
+id : 19479, Sandstone Fluid Pipe, cv : 1
+id : 19478, Sandstone Transport Pipe, cv : 1
+id : 19477, Void Fluid Pipe, cv : 1
+id : 19476, Void Transport Pipe, cv : 1
+id : 19456, Wooden Kinesis Pipe, cv : 129
+id : 19457, Cobblestone Kinesis Pipe, cv : 129
+id : 19458, Stone Kinesis Pipe, cv : 129
+id : 19464, Quartz Kinesis Pipe, cv : 128
+id : 19424, Quartz Transport Pipe, cv : 128
+id : 19460, Golden Kinesis Pipe, cv : 129
+id : 19461, Diamond Kinesis Pipe, cv : 128
+id : 19421, Diamond Transport Pipe, cv : 128
+id : 19480, Cobblestone Structure Pipe, cv : 3
+id : 19367&2, Iron OR Gate, cv : -1
+id : 19367&1, Iron AND Gate, cv : -1
+id : 19367&4, Gold OR Gate, cv : -1
+id : 19367&3, Gold AND Gate, cv : -1
+id : 19367&6, Diamond OR Gate, cv : -1
+id : 19367&5, Diamond AND Gate, cv : -1
+id : 19396&2, Autarchic Iron OR Gate, cv : -1
+id : 19396&1, Autarchic Iron AND Gate, cv : -1
+id : 19396&4, Autarchic Gold OR Gate, cv : -1
+id : 19396&3, Autarchic Gold AND Gate, cv : -1
+id : 19396&6, Autarchic Diamond OR Gate, cv : -1
+id : 19396&5, Autarchic Diamond AND Gate, cv : -1
+id : 18586&16, Backpack, cv : 512
+id : 18586&48, Big Backpack, cv : -1
+id : 18586&31999, Ender Backpack, cv : 1024
+id : 18589&18, Workbench Backpack, cv : 512
+id : 18589&50, Big Workbench Backpack, cv : -1
+id : 18587, item.leatherBound.name, cv : 240
+id : 18006&0, item.chesttransporter.name, cv : -1
+id : 1227&0, Turtle, cv : 7310
+id : 1230&0, Advanced Turtle, cv : 28814
+id : 1228&0, Crafty Turtle, cv : 7310
+id : 18748, Diamond Bucket, cv : 49152
+id : 18752, Gold Bucket, cv : 12288
+id : 18756, Ender Bucket, cv : 53248
+id : 18756, Ender Bucket, cv : 4096
+id : 18760, Obsidian Bucket, cv : 192
+id : 18764, Infernal Bucket, cv : 2563
+id : 18766, Shimmering Bucket, cv : 51200
+id : 18767, Emerald Bucket, cv : 24576
+id : 18813, Quartz Bucket, cv : 384
+id : 18771, Wooden Bucket, cv : 12
+id : 18773, Cobblestone Bucket, cv : -1
+id : 18776, Smoothstone Bucket, cv : 6
+id : 18779, Icy Bucket, cv : 49156
+id : 18780, Slimy Bucket, cv : 4096
+id : 18781, Magma Cube Bucket, cv : 4096
+id : 18782, Unfired Clay Bucket, cv : 6
+id : 18786, Black Hole Bucket, cv : 18624
+id : 18787, Explosive Bucket, cv : 7554
+id : 4400&0, item.casing.advanced, cv : 49156
+id : 4396&0, item.storage.physical.256k, cv : 49156
+id : 4402&0, item.storage.fluid.1k, cv : 3072
+id : 4399, item.storage.physical_secure.decrypted, cv : 7168
+id : 4397&0, item.cluster.kilo, cv : 16384
+id : 500, tile.block.solderingstation, cv : 23552
+id : 501, tile.block.medropper, cv : 4224
+id : 502, tile.block.mebattery, cv : -1
+id : 503, tile.block.hardmedrive, cv : 448
+id : 504, tile.block.fluid.bus.import, cv : 9216
+id : 505, tile.block.fluid.bus.export, cv : 9216
+id : 506, tile.block.fluid.bus.storage, cv : 9216
+id : 507, tile.block.fluid.terminal, cv : 9216
+id : 2000, tile.lbd:lightBridgeSource.name, cv : 9600
+id : 2003, tile.lbd:lightDoorSource.name, cv : 9408
+id : 2006, tile.lbd:gravityLift.name, cv : 5124
+id : 2007, tile.lbd:lightRailSource.name, cv : 23701
+id : 4516&1, item.MagicEssence.small.name, cv : -1
+id : 4516&2, item.MagicEssence.med.name, cv : -1
+id : 4516&3, item.MagicEssence.large.name, cv : -1
+id : 15, Iron Ore, cv : -1
+id : 14, Gold Ore, cv : -1
+id : 4546, item.MagicItemXPstone.name, cv : -1
+id : 120, End Portal, cv : -1
+id : 106, Vines, cv : -1
+id : 4466, item.mSeedsCoal.name, cv : 260
+id : 4467, item.mSeedsRedstone.name, cv : 256
+id : 4468, item.mSeedsGlowstone.name, cv : 256
+id : 4469, item.mSeedsObsidian.name, cv : 128
+id : 4470, item.mSeedsDye.name, cv : 2
+id : 4471, item.mSeedsIron.name, cv : 2048
+id : 4472, item.mSeedsGold.name, cv : 8192
+id : 4477, item.mSeedsBlaze.name, cv : 2048
+id : 4474, item.mSeedsEnder.name, cv : 2048
+id : 4473, item.mSeedsLapis.name, cv : 512
+id : 4476, item.mSeedsXP.name, cv : 1664
+id : 4475, item.mSeedsNether.name, cv : 8
+id : 4478, item.mSeedsDiamond.name, cv : 32768
+id : 4479, item.mSeedsEmerald.name, cv : 16384
+id : 719&0, Essence Brick, cv : 2
+id : 4010&0, Essence Block, cv : 2
+id : 5306, item.seedBagBlaze.name, cv : 18432
+id : 5307, item.seedBagCoal.name, cv : 2340
+id : 5308, item.seedBagDiamond.name, cv : 294912
+id : 5309, item.seedBagDye.name, cv : 18
+id : 5310, item.seedBagEmerald.name, cv : 147456
+id : 5311, item.seedBagEnder.name, cv : 18432
+id : 5312, item.seedBagGlowstone.name, cv : 2304
+id : 5313, item.seedBagGold.name, cv : 73728
+id : 5314, item.seedBagIron.name, cv : 18432
+id : 5315, item.seedBagLapis.name, cv : 4608
+id : 5316, item.seedBagNether.name, cv : 72
+id : 5317, item.seedBagObsidian.name, cv : 1152
+id : 5318, item.seedBagRedstone.name, cv : 2304
+id : 5319, item.seedBagXP.name, cv : 14976
+id : 4520&1, item.MiscItems.purepowder.name, cv : 51
+id : 4520&0, item.MiscItems.cleanflesh.name, cv : 67
+id : 4547, item.EssenceWand.name, cv : 455
+id : 4548&0, item.MagicalPotions.antidote.name, cv : -1
+id : 4548&1, item.MagicalPotions.witherless.name, cv : 16
+id : 4548&2, item.MagicalPotions.fire.name, cv : 512
+id : 4550&0, item.MagicalItems.naturesgift.name, cv : 2
+id : 4551&9, item.MagicalBooks.leather.name, cv : 64
+id : 4551&4, item.MagicalBooks.basepage.name, cv : 16
+id : 4551&5, item.MagicalBooks.firerespage.name, cv : 16
+id : 4551&6, item.MagicalBooks.nightvisionpage.name, cv : 16
+id : 4551&7, item.MagicalBooks.movespeedpage.name, cv : 16
+id : 4551&8, item.MagicalBooks.waterpage.name, cv : 16
+id : 4551&0, item.MagicalBooks.fireres.name, cv : 112
+id : 4549, item.MagicFertilizer.name, cv : 4098
+id : 4445, item.MagicHoe.name, cv : 1024
+id : 4033&0, Stone Brick, cv : 2
+id : 4038&0, Chiseled Brick, cv : 2
+id : 4039&0, Glowstone, cv : 512
+id : 4032&0, Brick, cv : 8
+id : 4029&0, Wood Planks, cv : 4
+id : 4088&0, Oak Planks, cv : 8
+id : 4087&0, White Wool, cv : 64
+id : 4014&0, Oak Wood Planks, cv : 4
+id : 4386, item.souless_seed_cow.name, cv : 128
+id : 4387, item.souless_seed_creeper.name, cv : 256
+id : 4388, item.souless_seed_magma.name, cv : 512
+id : 4389, item.souless_seed_skeleton.name, cv : 120
+id : 4390, item.souless_seed_slime.name, cv : 512
+id : 4391, item.souless_seed_spider.name, cv : 64
+id : 4392, item.souless_seed_ghast.name, cv : 2048
+id : 397&4, Creeper Head, cv : -1
+id : 397&0, Skeleton Skull, cv : -1
+id : 262, Arrow, cv : -1
+id : 261, Bow, cv : -1
+id : 384, Bottle o' Enchanting, cv : -1
+id : 26030, item.ml_vegcurry.name, cv : -1
+id : 26031, item.ml_chickencurry.name, cv : 48
+id : 26087, item.ml_wine_basic.name, cv : -1
+id : 26041, item.ml_masa.name, cv : -1
+id : 26042, item.ml_wah.name, cv : 48
+id : 1523, tile.byzantine_brick_slab.name, cv : -1
+id : 1524, tile.byzantine_mixedbrick.name, cv : 1
+id : 1526&0, tile.ml_path_slab.0.name, cv : -1
+id : 1526&1, tile.ml_path_slab.1.name, cv : -1
+id : 1526&2, tile.ml_path_slab.2.name, cv : -1
+id : 1526&3, tile.ml_path_slab.3.name, cv : -1
+id : 1526&4, tile.ml_path_slab.4.name, cv : -1
+id : 1526&5, tile.ml_path_slab.5.name, cv : -1
+id : 1526&6, tile.ml_path_slab.6.name, cv : -1
+id : 1526&7, tile.ml_path_slab.7.name, cv : -1
+id : 1526&8, tile.ml_path_slab.8.name, cv : -1
+id : 1526&9, tile.ml_path_slab.9.name, cv : -1
+id : 1526&10, tile.ml_path_slab.10.name, cv : -1
+id : 1526&11, tile.ml_path_slab.11.name, cv : -1
+id : 1526&12, tile.ml_path_slab.12.name, cv : -1
+id : 1526&13, tile.ml_path_slab.13.name, cv : -1
+id : 1526&14, tile.ml_path_slab.14.name, cv : -1
+id : 1526&15, tile.ml_path_slab.15.name, cv : -1
+id : 700&0, Project Bench, cv : 2058
+id : 13326, item.pbUpgrade.name, cv : 2062
+id : 4093, tile.blockRopeCentral.name, cv : 8
+id : 31998, item.itemGrapplingHook.name, cv : 1040
+id : 31985, item.itemHookshot.name, cv : 7192
+id : 4092, tile.blockZiplineAnchor.name, cv : 1040
+id : 31984, item.HookshotCartridge.name, cv : 48
+id : 29997&0, item.SC2coal_engine.name, cv : 5120
+id : 29998&1, item.SC2iron_wheels.name, cv : 1024
+id : 29998&5, item.SC2glass_o'magic.name, cv : 178
+id : 29998&43, item.SC2fuse.name, cv : 4
+id : 29998&6, item.SC2dynamite.name, cv : 260
+id : 29998&9, item.SC2simple_pcb.name, cv : 8704
+id : 29998&10, item.SC2graphical_interface.name, cv : 33536
+id : 29998&11, item.SC2raw_handle.name, cv : 3072
+id : 29998&14, item.SC2wheel.name, cv : 3072
+id : 29998&15, item.SC2saw_blade.name, cv : 18432
+id : 29998&16, item.SC2advanced_pcb.name, cv : 20992
+id : 29998&18, item.SC2raw_hardener.name, cv : 8320
+id : 29998&20, item.SC2hardened_mesh.name, cv : 1920
+id : 29998&21, item.SC2stabilized_metal.name, cv : 1792
+id : 29998&23, item.SC2reinforced_wheels.name, cv : 4096
+id : 29998&24, item.SC2pipe.name, cv : 1030
+id : 29998&25, item.SC2shooting_station.name, cv : 13568
+id : 29998&26, item.SC2entity_scanner.name, cv : 38400
+id : 29998&27, item.SC2entity_analyzer.name, cv : 16000
+id : 29998&28, item.SC2empty_disk.name, cv : 8832
+id : 29998&29, item.SC2tri-torch.name, cv : -1
+id : 29998&31, item.SC2large_chest_pane.name, cv : -1
+id : 29998&32, item.SC2huge_chest_pane.name, cv : -1
+id : 29998&33, item.SC2chest_lock.name, cv : 128
+id : 29998&34, item.SC2iron_pane.name, cv : 128
+id : 29998&35, item.SC2large_iron_pane.name, cv : 512
+id : 29998&36, item.SC2huge_iron_pane.name, cv : 1152
+id : 29998&37, item.SC2dynamic_pane.name, cv : 256
+id : 29998&38, item.SC2large_dynamic_pane.name, cv : 1152
+id : 29998&39, item.SC2huge_dynamic_pane.name, cv : 10752
+id : 29998&40, item.SC2cleaning_fan.name, cv : 2048
+id : 29998&41, item.SC2cleaning_core.name, cv : 7168
+id : 29998&44, item.SC2solar_panel.name, cv : 1408
+id : 29998&45, item.SC2eye_of_galgador.name, cv : 4196
+id : 29998&46, item.SC2lump_of_galgador.name, cv : 82006
+id : 29998&48, item.SC2large_lump_of_galgador.name, cv : 738054
+id : 29998&58, item.SC2advanced_solar_panel.name, cv : 16384
+id : 29998&59, item.SC2blank_upgrade.name, cv : 26240
+id : 29998&60, item.SC2tank_valve.name, cv : 560
+id : 29998&61, item.SC2tank_pane.name, cv : -1
+id : 29998&62, item.SC2large_tank_pane.name, cv : -1
+id : 29998&63, item.SC2huge_tank_pane.name, cv : -1
+id : 29998&64, item.SC2liquid_cleaning_core.name, cv : 7168
+id : 280, Stick, cv : -1
+id : 280, Stick, cv : -1
+id : 280, Stick, cv : -1
+id : 280, Stick, cv : -1
+id : 29998&80, item.SC2hardened_saw_blade.name, cv : 2048
+id : 29998&81, item.SC2galgadorian_saw_blade.name, cv : 2048
+id : 29998&82, item.SC2galgadorian_wheels.name, cv : -1
+id : 29998&83, item.SC2iron_blade.name, cv : 768
+id : 29998&84, item.SC2blade_arm.name, cv : 3072
+id : 4084, tile.SC2BlockCargoManager.name, cv : 7808
+id : 906, tile.SC2BlockDistributor.name, cv : 34952
+id : 4076, tile.SC2BlockCartAssembler.name, cv : 20488
+id : 4075, tile.SC2BlockJunction.name, cv : 512
+id : 4074, tile.SC2BlockAdvDetector.name, cv : 3140
+id : 907, tile.SC2BlockDetector.name, cv : 21764
+id : 909, tile.SC2BlockLiquidManager.name, cv : 25136
+id : 910&0, item.SC2BlockStorage0.name, cv : -1
+id : 29998&22, item.SC2reinforced_metal.name, cv : -1
+id : 910&1, item.SC2BlockStorage1.name, cv : -1
+id : 29998&47, item.SC2galgadorian_metal.name, cv : -1
+id : 910&2, item.SC2BlockStorage2.name, cv : -1
+id : 29998&49, item.SC2enhanced_galgadorian_metal.name, cv : -1
+id : 3558, Super Crafting Frame, cv : -1
+id : 4049, Super Item Frame, cv : 128
+id : 211&0, tile.CoreBlock0.name, cv : 4480
+id : 210&0, tile.MarkerBlock0.name, cv : -1
+id : 210&1, tile.MarkerBlock1.name, cv : -1
+id : 210&1, tile.MarkerBlock1.name, cv : 4224
+id : 210&2, tile.MarkerBlock2.name, cv : 4608
+id : 13056, item.Control Panel.name, cv : 134
+id : 13057&1, item.SearchControlPlate1.name, cv : 208
+id : 13057&2, item.SearchControlPlate2.name, cv : 160
+id : 13057&4, item.SearchControlPlate4.name, cv : 342
+id : 13057&3, item.SearchControlPlate3.name, cv : 342
+id : 4362&14, AppEng.Materials.FluxQuartzDust.name, cv : 64
+id : 4362&23, AppEng.Materials.FluxQuartz.name, cv : 256
+id : 901&9, AppEng.Blocks.StorageBus.name, cv : 3072
+id : 14256, Apiarist's Pipe, cv : 128
+id : 9318, tile.extrabiomes.log.0.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.0.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.0.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.0.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.1.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.1.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.1.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.1.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.2.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.2.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.2.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.2.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.3.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.3.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.3.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.3.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.newlog.0.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.newlog.0.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.newlog.0.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.newlog.0.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.newlog.1.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.newlog.1.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.newlog.1.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.newlog.1.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.newlog.2.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.newlog.2.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.newlog.2.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.newlog.2.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.sakura_blossom.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.sakura_blossom.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.sakura_blossom.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.sakura_blossom.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.0.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.0.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.0.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.0.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.1.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.1.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.1.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.1.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.2.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.2.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.2.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.2.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.0.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.0.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.0.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.0.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.1.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.1.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.1.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.1.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.2.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.2.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.2.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.2.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.0.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.0.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.0.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.0.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.1.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.1.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.1.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.1.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.2.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.2.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.2.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.2.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.0.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.0.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.0.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.0.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.1.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.1.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.1.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.1.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.log.quarter.2.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.log.quarter.2.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.log.quarter.2.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.log.quarter.2.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.baldcypressquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.baldcypressquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.baldcypressquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.baldcypressquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.rainboweucalyptusquarter.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, HOPPING tile.extrabiomes.cypresskneelog.name Barrel, cv : 10240
+id : 9318, LARGER tile.extrabiomes.cypresskneelog.name Barrel, cv : 5120
+id : 9318, STICKY tile.extrabiomes.cypresskneelog.name Barrel, cv : 256
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, tile.extrabiomes.cypresskneelog.name Barrel, cv : -1
+id : 9318, Larch Wood Barrel, cv : -1
+id : 9318, HOPPING Larch Wood Barrel, cv : 10240
+id : 9318, LARGER Larch Wood Barrel, cv : 5120
+id : 9318, STICKY Larch Wood Barrel, cv : 256
+id : 9318, Teak Wood Barrel, cv : -1
+id : 9318, HOPPING Teak Wood Barrel, cv : 10240
+id : 9318, LARGER Teak Wood Barrel, cv : 5120
+id : 9318, STICKY Teak Wood Barrel, cv : 256
+id : 9318, Acacia Wood Barrel, cv : -1
+id : 9318, HOPPING Acacia Wood Barrel, cv : 10240
+id : 9318, LARGER Acacia Wood Barrel, cv : 5120
+id : 9318, STICKY Acacia Wood Barrel, cv : 256
+id : 9318, Lime Wood Barrel, cv : -1
+id : 9318, HOPPING Lime Wood Barrel, cv : 10240
+id : 9318, LARGER Lime Wood Barrel, cv : 5120
+id : 9318, STICKY Lime Wood Barrel, cv : 256
+id : 9318, Chestnut Wood Barrel, cv : -1
+id : 9318, HOPPING Chestnut Wood Barrel, cv : 10240
+id : 9318, LARGER Chestnut Wood Barrel, cv : 5120
+id : 9318, STICKY Chestnut Wood Barrel, cv : 256
+id : 9318, Wenge Wood Barrel, cv : -1
+id : 9318, HOPPING Wenge Wood Barrel, cv : 10240
+id : 9318, LARGER Wenge Wood Barrel, cv : 5120
+id : 9318, STICKY Wenge Wood Barrel, cv : 256
+id : 9318, Baobab Wood Barrel, cv : -1
+id : 9318, HOPPING Baobab Wood Barrel, cv : 10240
+id : 9318, LARGER Baobab Wood Barrel, cv : 5120
+id : 9318, STICKY Baobab Wood Barrel, cv : 256
+id : 9318, Sequoia Wood Barrel, cv : -1
+id : 9318, HOPPING Sequoia Wood Barrel, cv : 10240
+id : 9318, LARGER Sequoia Wood Barrel, cv : 5120
+id : 9318, STICKY Sequoia Wood Barrel, cv : 256
+id : 9318, Kapok Wood Barrel, cv : -1
+id : 9318, HOPPING Kapok Wood Barrel, cv : 10240
+id : 9318, LARGER Kapok Wood Barrel, cv : 5120
+id : 9318, STICKY Kapok Wood Barrel, cv : 256
+id : 9318, Ebony Wood Barrel, cv : -1
+id : 9318, HOPPING Ebony Wood Barrel, cv : 10240
+id : 9318, LARGER Ebony Wood Barrel, cv : 5120
+id : 9318, STICKY Ebony Wood Barrel, cv : 256
+id : 9318, Mahogany Wood Barrel, cv : -1
+id : 9318, HOPPING Mahogany Wood Barrel, cv : 10240
+id : 9318, LARGER Mahogany Wood Barrel, cv : 5120
+id : 9318, STICKY Mahogany Wood Barrel, cv : 256
+id : 9318, Balsa Wood Barrel, cv : -1
+id : 9318, HOPPING Balsa Wood Barrel, cv : 10240
+id : 9318, LARGER Balsa Wood Barrel, cv : 5120
+id : 9318, STICKY Balsa Wood Barrel, cv : 256
+id : 9318, Willow Wood Barrel, cv : -1
+id : 9318, HOPPING Willow Wood Barrel, cv : 10240
+id : 9318, LARGER Willow Wood Barrel, cv : 5120
+id : 9318, STICKY Willow Wood Barrel, cv : 256
+id : 9318, Walnut Wood Barrel, cv : -1
+id : 9318, HOPPING Walnut Wood Barrel, cv : 10240
+id : 9318, LARGER Walnut Wood Barrel, cv : 5120
+id : 9318, STICKY Walnut Wood Barrel, cv : 256
+id : 9318, Greenheart Wood Barrel, cv : -1
+id : 9318, HOPPING Greenheart Wood Barrel, cv : 10240
+id : 9318, LARGER Greenheart Wood Barrel, cv : 5120
+id : 9318, STICKY Greenheart Wood Barrel, cv : 256
+id : 9318, Cherry Wood Barrel, cv : -1
+id : 9318, HOPPING Cherry Wood Barrel, cv : 10240
+id : 9318, LARGER Cherry Wood Barrel, cv : 5120
+id : 9318, STICKY Cherry Wood Barrel, cv : 256
+id : 3876&1, tile.icbm:spikes.1.name, cv : -1
+id : 3878, tile.icbm:glassButton.name, cv : 2
+id : 54, Chest, cv : 32
+id : 146, Trapped Chest, cv : 32
+id : 58, Crafting Table, cv : 16
+id : 386, Book and Quill, cv : 177
+id : 85, Fence, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 107, Fence Gate, cv : 8
+id : 84, Jukebox, cv : 16416
+id : 25, Note Block, cv : 160
+id : 47, Bookshelf, cv : 360
+id : 126&0, Oak Wood Slab, cv : 2
+id : 65, Ladder, cv : -1
+id : 324, Wooden Door, cv : 24
+id : 96, Trapdoor, cv : 12
+id : 323, Sign, cv : 8
+id : 280, Stick, cv : 2
+id : 50, Torch, cv : 33
+id : 281, Bowl, cv : 3
+id : 66, Rail, cv : 384
+id : 27, Powered Rail, cv : 4117
+id : 157, Activator Rail, cv : 1024
+id : 333, Boat, cv : 20
+id : 53, Oak Wood Stairs, cv : 6
+id : 135, Birch Wood Stairs, cv : 6
+id : 134, Spruce Wood Stairs, cv : 6
+id : 136, Jungle Wood Stairs, cv : 6
+id : 346, Fishing Rod, cv : 38
+id : 67, Stone Stairs, cv : -1
+id : 108, Brick Stairs, cv : 12
+id : 114, Nether Brick Stairs, cv : 6
+id : 128, Sandstone Stairs, cv : 12
+id : 156, Quartz Stairs, cv : 768
+id : 321, Painting, cv : 80
+id : 389, Item Frame, cv : 80
+id : 69, Lever, cv : 2
+id : 131, Tripwire Hook, cv : 515
+id : 76, Redstone Torch, cv : 130
+id : 143, Button, cv : 4
+id : 72, Pressure Plate, cv : 8
+id : 33, Piston, cv : 1164
+id : 29, Sticky Piston, cv : 1420
+id : 355, Bed, cv : 204
+id : 61, Furnace, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 102, Glass Pane, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 9264, Dark Iron Ingot, cv : -1
+id : 1002&3, Block of Dark Iron, cv : -1
+id : 9299, Logic Matrix Programmer, cv : -1
+id : 9270, Lead Ingot, cv : -1
+id : 9271, Silver Ingot, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 14257, item.PamWeeeFlowers:whiteflowerseedItem.name, cv : -1
+id : 14258, item.PamWeeeFlowers:orangeflowerseedItem.name, cv : -1
+id : 14259, item.PamWeeeFlowers:magentaflowerseedItem.name, cv : -1
+id : 14260, item.PamWeeeFlowers:lightblueflowerseedItem.name, cv : -1
+id : 14262, item.PamWeeeFlowers:limeflowerseedItem.name, cv : -1
+id : 14263, item.PamWeeeFlowers:pinkflowerseedItem.name, cv : -1
+id : 14264, item.PamWeeeFlowers:darkgreyflowerseedItem.name, cv : -1
+id : 14265, item.PamWeeeFlowers:lightgreyflowerseedItem.name, cv : -1
+id : 14266, item.PamWeeeFlowers:cyanflowerseedItem.name, cv : -1
+id : 14267, item.PamWeeeFlowers:purpleflowerseedItem.name, cv : -1
+id : 14268, item.PamWeeeFlowers:blueflowerseedItem.name, cv : -1
+id : 14269, item.PamWeeeFlowers:brownflowerseedItem.name, cv : -1
+id : 14270, item.PamWeeeFlowers:greenflowerseedItem.name, cv : -1
+id : 14272, item.PamWeeeFlowers:blackflowerseedItem.name, cv : -1
+id : 1489&1, block.brownstone.rough.road.name, cv : -1
+id : 1489&3, block.brownstone.smooth.brick.name, cv : -1
+id : 1489&4, block.brownstone.smooth.road.name, cv : -1
+id : 1489&5, block.brownstone.smooth.fancy.name, cv : -1
+id : 1489&6, block.brownstone.smooth.chiseled.name, cv : -1
+id : 1471&0, ToolStation.Crafter.name, cv : 16
+id : 3231&0, block.brownstone.rough.slab.name, cv : -1
+id : 3231&1, block.brownstone.rough.road.slab.name, cv : -1
+id : 3231&2, block.brownstone.smooth.slab.name, cv : -1
+id : 3231&3, block.brownstone.smooth.brick.slab.name, cv : -1
+id : 3231&4, block.brownstone.smooth.road.slab.name, cv : -1
+id : 3231&5, block.brownstone.smooth.fancy.slab.name, cv : -1
+id : 3231&6, block.brownstone.smooth.chiseled.slab.name, cv : -1
+id : 3233, tile.CraftingStation.name, cv : 16
+id : 3243&0, tile.CraftingStation.name, cv : 8
+id : 23277, item.itemtablestone.name, cv : -1
+id : 23276, item.itemchairstone.name, cv : -1
+id : 23267, item.itemblinds.name, cv : 9
+id : 23278, item.itemcoffeetablestone.name, cv : -1
+id : 23283, item.itemhedgebasic.name, cv : -1
+id : 23284, item.itemhedgespruce.name, cv : -1
+id : 23285, item.itemhedgebirch.name, cv : -1
+id : 23286, item.itemhedgejungle.name, cv : -1
+id : 23288, item.itemstonepath.name, cv : -1
+id : 23289, item.itemwhitefence.name, cv : -1
+id : 1741&0, Rotary Macerator, cv : -1
+id : 1741&2, Centrifuge Extractor, cv : -1
+id : 19356, Wood Gear, cv : 8
+id : 19357, Stone Gear, cv : 8
+id : 19367&2, Iron OR Gate, cv : -1
+id : 19367&1, Iron AND Gate, cv : -1
+id : 19367&4, Gold OR Gate, cv : -1
+id : 19367&3, Gold AND Gate, cv : -1
+id : 19367&6, Diamond OR Gate, cv : -1
+id : 19367&5, Diamond AND Gate, cv : -1
+id : 19396&2, Autarchic Iron OR Gate, cv : -1
+id : 19396&1, Autarchic Iron AND Gate, cv : -1
+id : 19396&4, Autarchic Gold OR Gate, cv : -1
+id : 19396&3, Autarchic Gold AND Gate, cv : -1
+id : 19396&6, Autarchic Diamond OR Gate, cv : -1
+id : 19396&5, Autarchic Diamond AND Gate, cv : -1
+id : 18586&48, Big Backpack, cv : -1
+id : 18589&50, Big Workbench Backpack, cv : 16
+id : 18006&0, item.chesttransporter.name, cv : 12
+id : 18760, Obsidian Bucket, cv : 192
+id : 18764, Infernal Bucket, cv : 2563
+id : 18813, Quartz Bucket, cv : 384
+id : 502, tile.block.mebattery, cv : 1024
+id : 4516&1, item.MagicEssence.small.name, cv : -1
+id : 4516&2, item.MagicEssence.med.name, cv : -1
+id : 4516&3, item.MagicEssence.large.name, cv : -1
+id : 15, Iron Ore, cv : -1
+id : 14, Gold Ore, cv : -1
+id : 4546, item.MagicItemXPstone.name, cv : -1
+id : 120, End Portal, cv : -1
+id : 106, Vines, cv : -1
+id : 4548&0, item.MagicalPotions.antidote.name, cv : -1
+id : 397&4, Creeper Head, cv : -1
+id : 397&0, Skeleton Skull, cv : -1
+id : 262, Arrow, cv : -1
+id : 384, Bottle o' Enchanting, cv : -1
+id : 26030, item.ml_vegcurry.name, cv : -1
+id : 26087, item.ml_wine_basic.name, cv : -1
+id : 26041, item.ml_masa.name, cv : -1
+id : 1523, tile.byzantine_brick_slab.name, cv : -1
+id : 1526&0, tile.ml_path_slab.0.name, cv : -1
+id : 1526&1, tile.ml_path_slab.1.name, cv : -1
+id : 1526&2, tile.ml_path_slab.2.name, cv : -1
+id : 1526&3, tile.ml_path_slab.3.name, cv : -1
+id : 1526&4, tile.ml_path_slab.4.name, cv : -1
+id : 1526&5, tile.ml_path_slab.5.name, cv : -1
+id : 1526&6, tile.ml_path_slab.6.name, cv : -1
+id : 1526&7, tile.ml_path_slab.7.name, cv : -1
+id : 1526&8, tile.ml_path_slab.8.name, cv : -1
+id : 1526&9, tile.ml_path_slab.9.name, cv : -1
+id : 1526&10, tile.ml_path_slab.10.name, cv : -1
+id : 1526&11, tile.ml_path_slab.11.name, cv : -1
+id : 1526&12, tile.ml_path_slab.12.name, cv : -1
+id : 1526&13, tile.ml_path_slab.13.name, cv : -1
+id : 1526&14, tile.ml_path_slab.14.name, cv : -1
+id : 1526&15, tile.ml_path_slab.15.name, cv : -1
+id : 29998&29, item.SC2tri-torch.name, cv : 99
+id : 29998&31, item.SC2large_chest_pane.name, cv : -1
+id : 29998&32, item.SC2huge_chest_pane.name, cv : -1
+id : 29998&61, item.SC2tank_pane.name, cv : -1
+id : 29998&62, item.SC2large_tank_pane.name, cv : -1
+id : 29998&63, item.SC2huge_tank_pane.name, cv : -1
+id : 29998&82, item.SC2galgadorian_wheels.name, cv : -1
+id : 910&0, item.SC2BlockStorage0.name, cv : -1
+id : 29998&22, item.SC2reinforced_metal.name, cv : -1
+id : 910&1, item.SC2BlockStorage1.name, cv : -1
+id : 29998&47, item.SC2galgadorian_metal.name, cv : -1
+id : 910&2, item.SC2BlockStorage2.name, cv : -1
+id : 29998&49, item.SC2enhanced_galgadorian_metal.name, cv : -1
+id : 3558, Super Crafting Frame, cv : 32
+id : 210&0, tile.MarkerBlock0.name, cv : 4224
+id : 3876&1, tile.icbm:spikes.1.name, cv : -1
+id : 85, Fence, cv : 6
+id : 139&0, Cobblestone Wall, cv : -1
+id : 65, Ladder, cv : 4
+id : 67, Stone Stairs, cv : -1
+id : 61, Furnace, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 102, Glass Pane, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 9264, Dark Iron Ingot, cv : -1
+id : 1002&3, Block of Dark Iron, cv : -1
+id : 9299, Logic Matrix Programmer, cv : -1
+id : 9270, Lead Ingot, cv : -1
+id : 9271, Silver Ingot, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 14257, item.PamWeeeFlowers:whiteflowerseedItem.name, cv : -1
+id : 14258, item.PamWeeeFlowers:orangeflowerseedItem.name, cv : -1
+id : 14259, item.PamWeeeFlowers:magentaflowerseedItem.name, cv : -1
+id : 14260, item.PamWeeeFlowers:lightblueflowerseedItem.name, cv : -1
+id : 14262, item.PamWeeeFlowers:limeflowerseedItem.name, cv : -1
+id : 14263, item.PamWeeeFlowers:pinkflowerseedItem.name, cv : -1
+id : 14264, item.PamWeeeFlowers:darkgreyflowerseedItem.name, cv : -1
+id : 14265, item.PamWeeeFlowers:lightgreyflowerseedItem.name, cv : -1
+id : 14266, item.PamWeeeFlowers:cyanflowerseedItem.name, cv : -1
+id : 14267, item.PamWeeeFlowers:purpleflowerseedItem.name, cv : -1
+id : 14268, item.PamWeeeFlowers:blueflowerseedItem.name, cv : -1
+id : 14269, item.PamWeeeFlowers:brownflowerseedItem.name, cv : -1
+id : 14270, item.PamWeeeFlowers:greenflowerseedItem.name, cv : -1
+id : 14272, item.PamWeeeFlowers:blackflowerseedItem.name, cv : -1
+id : 1489&1, block.brownstone.rough.road.name, cv : -1
+id : 1489&3, block.brownstone.smooth.brick.name, cv : -1
+id : 1489&4, block.brownstone.smooth.road.name, cv : -1
+id : 1489&5, block.brownstone.smooth.fancy.name, cv : -1
+id : 1489&6, block.brownstone.smooth.chiseled.name, cv : -1
+id : 3231&0, block.brownstone.rough.slab.name, cv : -1
+id : 3231&1, block.brownstone.rough.road.slab.name, cv : -1
+id : 3231&2, block.brownstone.smooth.slab.name, cv : -1
+id : 3231&3, block.brownstone.smooth.brick.slab.name, cv : -1
+id : 3231&4, block.brownstone.smooth.road.slab.name, cv : -1
+id : 3231&5, block.brownstone.smooth.fancy.slab.name, cv : -1
+id : 3231&6, block.brownstone.smooth.chiseled.slab.name, cv : -1
+id : 23277, item.itemtablestone.name, cv : -1
+id : 23276, item.itemchairstone.name, cv : -1
+id : 23278, item.itemcoffeetablestone.name, cv : -1
+id : 23283, item.itemhedgebasic.name, cv : -1
+id : 23284, item.itemhedgespruce.name, cv : -1
+id : 23285, item.itemhedgebirch.name, cv : -1
+id : 23286, item.itemhedgejungle.name, cv : -1
+id : 23288, item.itemstonepath.name, cv : -1
+id : 23289, item.itemwhitefence.name, cv : 3
+id : 1741&0, Rotary Macerator, cv : -1
+id : 1741&2, Centrifuge Extractor, cv : -1
+id : 19367&2, Iron OR Gate, cv : -1
+id : 19367&1, Iron AND Gate, cv : -1
+id : 19367&4, Gold OR Gate, cv : -1
+id : 19367&3, Gold AND Gate, cv : -1
+id : 19367&6, Diamond OR Gate, cv : -1
+id : 19367&5, Diamond AND Gate, cv : -1
+id : 19396&2, Autarchic Iron OR Gate, cv : -1
+id : 19396&1, Autarchic Iron AND Gate, cv : -1
+id : 19396&4, Autarchic Gold OR Gate, cv : -1
+id : 19396&3, Autarchic Gold AND Gate, cv : -1
+id : 19396&6, Autarchic Diamond OR Gate, cv : -1
+id : 19396&5, Autarchic Diamond AND Gate, cv : -1
+id : 18586&48, Big Backpack, cv : -1
+id : 18760, Obsidian Bucket, cv : 192
+id : 18764, Infernal Bucket, cv : 2563
+id : 18813, Quartz Bucket, cv : 384
+id : 4516&1, item.MagicEssence.small.name, cv : -1
+id : 4516&2, item.MagicEssence.med.name, cv : -1
+id : 4516&3, item.MagicEssence.large.name, cv : -1
+id : 15, Iron Ore, cv : -1
+id : 14, Gold Ore, cv : -1
+id : 4546, item.MagicItemXPstone.name, cv : -1
+id : 120, End Portal, cv : -1
+id : 106, Vines, cv : -1
+id : 4548&0, item.MagicalPotions.antidote.name, cv : -1
+id : 397&4, Creeper Head, cv : -1
+id : 397&0, Skeleton Skull, cv : -1
+id : 262, Arrow, cv : -1
+id : 384, Bottle o' Enchanting, cv : -1
+id : 26030, item.ml_vegcurry.name, cv : -1
+id : 26087, item.ml_wine_basic.name, cv : -1
+id : 26041, item.ml_masa.name, cv : -1
+id : 1523, tile.byzantine_brick_slab.name, cv : -1
+id : 1526&0, tile.ml_path_slab.0.name, cv : -1
+id : 1526&1, tile.ml_path_slab.1.name, cv : -1
+id : 1526&2, tile.ml_path_slab.2.name, cv : -1
+id : 1526&3, tile.ml_path_slab.3.name, cv : -1
+id : 1526&4, tile.ml_path_slab.4.name, cv : -1
+id : 1526&5, tile.ml_path_slab.5.name, cv : -1
+id : 1526&6, tile.ml_path_slab.6.name, cv : -1
+id : 1526&7, tile.ml_path_slab.7.name, cv : -1
+id : 1526&8, tile.ml_path_slab.8.name, cv : -1
+id : 1526&9, tile.ml_path_slab.9.name, cv : -1
+id : 1526&10, tile.ml_path_slab.10.name, cv : -1
+id : 1526&11, tile.ml_path_slab.11.name, cv : -1
+id : 1526&12, tile.ml_path_slab.12.name, cv : -1
+id : 1526&13, tile.ml_path_slab.13.name, cv : -1
+id : 1526&14, tile.ml_path_slab.14.name, cv : -1
+id : 1526&15, tile.ml_path_slab.15.name, cv : -1
+id : 29998&31, item.SC2large_chest_pane.name, cv : -1
+id : 29998&32, item.SC2huge_chest_pane.name, cv : -1
+id : 29998&61, item.SC2tank_pane.name, cv : -1
+id : 29998&62, item.SC2large_tank_pane.name, cv : -1
+id : 29998&63, item.SC2huge_tank_pane.name, cv : -1
+id : 29998&82, item.SC2galgadorian_wheels.name, cv : -1
+id : 910&0, item.SC2BlockStorage0.name, cv : -1
+id : 29998&22, item.SC2reinforced_metal.name, cv : -1
+id : 910&1, item.SC2BlockStorage1.name, cv : -1
+id : 29998&47, item.SC2galgadorian_metal.name, cv : -1
+id : 910&2, item.SC2BlockStorage2.name, cv : -1
+id : 29998&49, item.SC2enhanced_galgadorian_metal.name, cv : -1
+id : 3876&1, tile.icbm:spikes.1.name, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 61, Furnace, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 102, Glass Pane, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 9264, Dark Iron Ingot, cv : -1
+id : 1002&3, Block of Dark Iron, cv : -1
+id : 9299, Logic Matrix Programmer, cv : -1
+id : 9270, Lead Ingot, cv : -1
+id : 9271, Silver Ingot, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 14257, item.PamWeeeFlowers:whiteflowerseedItem.name, cv : -1
+id : 14258, item.PamWeeeFlowers:orangeflowerseedItem.name, cv : -1
+id : 14259, item.PamWeeeFlowers:magentaflowerseedItem.name, cv : -1
+id : 14260, item.PamWeeeFlowers:lightblueflowerseedItem.name, cv : -1
+id : 14262, item.PamWeeeFlowers:limeflowerseedItem.name, cv : -1
+id : 14263, item.PamWeeeFlowers:pinkflowerseedItem.name, cv : -1
+id : 14264, item.PamWeeeFlowers:darkgreyflowerseedItem.name, cv : -1
+id : 14265, item.PamWeeeFlowers:lightgreyflowerseedItem.name, cv : -1
+id : 14266, item.PamWeeeFlowers:cyanflowerseedItem.name, cv : -1
+id : 14267, item.PamWeeeFlowers:purpleflowerseedItem.name, cv : -1
+id : 14268, item.PamWeeeFlowers:blueflowerseedItem.name, cv : -1
+id : 14269, item.PamWeeeFlowers:brownflowerseedItem.name, cv : -1
+id : 14270, item.PamWeeeFlowers:greenflowerseedItem.name, cv : -1
+id : 14272, item.PamWeeeFlowers:blackflowerseedItem.name, cv : -1
+id : 1489&1, block.brownstone.rough.road.name, cv : -1
+id : 1489&3, block.brownstone.smooth.brick.name, cv : -1
+id : 1489&4, block.brownstone.smooth.road.name, cv : -1
+id : 1489&5, block.brownstone.smooth.fancy.name, cv : -1
+id : 1489&6, block.brownstone.smooth.chiseled.name, cv : -1
+id : 3231&0, block.brownstone.rough.slab.name, cv : -1
+id : 3231&1, block.brownstone.rough.road.slab.name, cv : -1
+id : 3231&2, block.brownstone.smooth.slab.name, cv : -1
+id : 3231&3, block.brownstone.smooth.brick.slab.name, cv : -1
+id : 3231&4, block.brownstone.smooth.road.slab.name, cv : -1
+id : 3231&5, block.brownstone.smooth.fancy.slab.name, cv : -1
+id : 3231&6, block.brownstone.smooth.chiseled.slab.name, cv : -1
+id : 23277, item.itemtablestone.name, cv : -1
+id : 23276, item.itemchairstone.name, cv : -1
+id : 23278, item.itemcoffeetablestone.name, cv : -1
+id : 23283, item.itemhedgebasic.name, cv : -1
+id : 23284, item.itemhedgespruce.name, cv : -1
+id : 23285, item.itemhedgebirch.name, cv : -1
+id : 23286, item.itemhedgejungle.name, cv : -1
+id : 23288, item.itemstonepath.name, cv : -1
+id : 1741&0, Rotary Macerator, cv : -1
+id : 1741&2, Centrifuge Extractor, cv : -1
+id : 19367&2, Iron OR Gate, cv : -1
+id : 19367&1, Iron AND Gate, cv : -1
+id : 19367&4, Gold OR Gate, cv : -1
+id : 19367&3, Gold AND Gate, cv : -1
+id : 19367&6, Diamond OR Gate, cv : -1
+id : 19367&5, Diamond AND Gate, cv : -1
+id : 19396&2, Autarchic Iron OR Gate, cv : -1
+id : 19396&1, Autarchic Iron AND Gate, cv : -1
+id : 19396&4, Autarchic Gold OR Gate, cv : -1
+id : 19396&3, Autarchic Gold AND Gate, cv : -1
+id : 19396&6, Autarchic Diamond OR Gate, cv : -1
+id : 19396&5, Autarchic Diamond AND Gate, cv : -1
+id : 18586&48, Big Backpack, cv : -1
+id : 18760, Obsidian Bucket, cv : 192
+id : 18764, Infernal Bucket, cv : 2563
+id : 18813, Quartz Bucket, cv : 384
+id : 4516&1, item.MagicEssence.small.name, cv : -1
+id : 4516&2, item.MagicEssence.med.name, cv : -1
+id : 4516&3, item.MagicEssence.large.name, cv : -1
+id : 15, Iron Ore, cv : -1
+id : 14, Gold Ore, cv : -1
+id : 4546, item.MagicItemXPstone.name, cv : -1
+id : 120, End Portal, cv : -1
+id : 106, Vines, cv : -1
+id : 4548&0, item.MagicalPotions.antidote.name, cv : -1
+id : 397&4, Creeper Head, cv : -1
+id : 397&0, Skeleton Skull, cv : -1
+id : 262, Arrow, cv : -1
+id : 384, Bottle o' Enchanting, cv : -1
+id : 26030, item.ml_vegcurry.name, cv : -1
+id : 26087, item.ml_wine_basic.name, cv : -1
+id : 26041, item.ml_masa.name, cv : -1
+id : 1523, tile.byzantine_brick_slab.name, cv : -1
+id : 1526&0, tile.ml_path_slab.0.name, cv : -1
+id : 1526&1, tile.ml_path_slab.1.name, cv : -1
+id : 1526&2, tile.ml_path_slab.2.name, cv : -1
+id : 1526&3, tile.ml_path_slab.3.name, cv : -1
+id : 1526&4, tile.ml_path_slab.4.name, cv : -1
+id : 1526&5, tile.ml_path_slab.5.name, cv : -1
+id : 1526&6, tile.ml_path_slab.6.name, cv : -1
+id : 1526&7, tile.ml_path_slab.7.name, cv : -1
+id : 1526&8, tile.ml_path_slab.8.name, cv : -1
+id : 1526&9, tile.ml_path_slab.9.name, cv : -1
+id : 1526&10, tile.ml_path_slab.10.name, cv : -1
+id : 1526&11, tile.ml_path_slab.11.name, cv : -1
+id : 1526&12, tile.ml_path_slab.12.name, cv : -1
+id : 1526&13, tile.ml_path_slab.13.name, cv : -1
+id : 1526&14, tile.ml_path_slab.14.name, cv : -1
+id : 1526&15, tile.ml_path_slab.15.name, cv : -1
+id : 29998&31, item.SC2large_chest_pane.name, cv : -1
+id : 29998&32, item.SC2huge_chest_pane.name, cv : -1
+id : 29998&61, item.SC2tank_pane.name, cv : -1
+id : 29998&62, item.SC2large_tank_pane.name, cv : -1
+id : 29998&63, item.SC2huge_tank_pane.name, cv : -1
+id : 29998&82, item.SC2galgadorian_wheels.name, cv : -1
+id : 910&0, item.SC2BlockStorage0.name, cv : -1
+id : 29998&22, item.SC2reinforced_metal.name, cv : -1
+id : 910&1, item.SC2BlockStorage1.name, cv : -1
+id : 29998&47, item.SC2galgadorian_metal.name, cv : -1
+id : 910&2, item.SC2BlockStorage2.name, cv : -1
+id : 29998&49, item.SC2enhanced_galgadorian_metal.name, cv : -1
+id : 3876&1, tile.icbm:spikes.1.name, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 61, Furnace, cv : -1
+id : 67, Stone Stairs, cv : -1
+id : 102, Glass Pane, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 9264, Dark Iron Ingot, cv : -1
+id : 1002&3, Block of Dark Iron, cv : -1
+id : 9299, Logic Matrix Programmer, cv : -1
+id : 9270, Lead Ingot, cv : -1
+id : 9271, Silver Ingot, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 9297, Sculpting Tool, cv : -1
+id : 14257, item.PamWeeeFlowers:whiteflowerseedItem.name, cv : -1
+id : 14258, item.PamWeeeFlowers:orangeflowerseedItem.name, cv : -1
+id : 14259, item.PamWeeeFlowers:magentaflowerseedItem.name, cv : -1
+id : 14260, item.PamWeeeFlowers:lightblueflowerseedItem.name, cv : -1
+id : 14262, item.PamWeeeFlowers:limeflowerseedItem.name, cv : -1
+id : 14263, item.PamWeeeFlowers:pinkflowerseedItem.name, cv : -1
+id : 14264, item.PamWeeeFlowers:darkgreyflowerseedItem.name, cv : -1
+id : 14265, item.PamWeeeFlowers:lightgreyflowerseedItem.name, cv : -1
+id : 14266, item.PamWeeeFlowers:cyanflowerseedItem.name, cv : -1
+id : 14267, item.PamWeeeFlowers:purpleflowerseedItem.name, cv : -1
+id : 14268, item.PamWeeeFlowers:blueflowerseedItem.name, cv : -1
+id : 14269, item.PamWeeeFlowers:brownflowerseedItem.name, cv : -1
+id : 14270, item.PamWeeeFlowers:greenflowerseedItem.name, cv : -1
+id : 14272, item.PamWeeeFlowers:blackflowerseedItem.name, cv : -1
+id : 1489&1, block.brownstone.rough.road.name, cv : -1
+id : 1489&3, block.brownstone.smooth.brick.name, cv : -1
+id : 1489&4, block.brownstone.smooth.road.name, cv : -1
+id : 1489&5, block.brownstone.smooth.fancy.name, cv : -1
+id : 1489&6, block.brownstone.smooth.chiseled.name, cv : -1
+id : 3231&0, block.brownstone.rough.slab.name, cv : -1
+id : 3231&1, block.brownstone.rough.road.slab.name, cv : -1
+id : 3231&2, block.brownstone.smooth.slab.name, cv : -1
+id : 3231&3, block.brownstone.smooth.brick.slab.name, cv : -1
+id : 3231&4, block.brownstone.smooth.road.slab.name, cv : -1
+id : 3231&5, block.brownstone.smooth.fancy.slab.name, cv : -1
+id : 3231&6, block.brownstone.smooth.chiseled.slab.name, cv : -1
+id : 23277, item.itemtablestone.name, cv : -1
+id : 23276, item.itemchairstone.name, cv : -1
+id : 23278, item.itemcoffeetablestone.name, cv : -1
+id : 23283, item.itemhedgebasic.name, cv : -1
+id : 23284, item.itemhedgespruce.name, cv : -1
+id : 23285, item.itemhedgebirch.name, cv : -1
+id : 23286, item.itemhedgejungle.name, cv : -1
+id : 23288, item.itemstonepath.name, cv : -1
+id : 1741&0, Rotary Macerator, cv : -1
+id : 1741&2, Centrifuge Extractor, cv : -1
+id : 19367&2, Iron OR Gate, cv : -1
+id : 19367&1, Iron AND Gate, cv : -1
+id : 19367&4, Gold OR Gate, cv : -1
+id : 19367&3, Gold AND Gate, cv : -1
+id : 19367&6, Diamond OR Gate, cv : -1
+id : 19367&5, Diamond AND Gate, cv : -1
+id : 19396&2, Autarchic Iron OR Gate, cv : -1
+id : 19396&1, Autarchic Iron AND Gate, cv : -1
+id : 19396&4, Autarchic Gold OR Gate, cv : -1
+id : 19396&3, Autarchic Gold AND Gate, cv : -1
+id : 19396&6, Autarchic Diamond OR Gate, cv : -1
+id : 19396&5, Autarchic Diamond AND Gate, cv : -1
+id : 18586&48, Big Backpack, cv : -1
+id : 18760, Obsidian Bucket, cv : 192
+id : 18764, Infernal Bucket, cv : 2563
+id : 18813, Quartz Bucket, cv : 384
+id : 4516&1, item.MagicEssence.small.name, cv : -1
+id : 4516&2, item.MagicEssence.med.name, cv : -1
+id : 4516&3, item.MagicEssence.large.name, cv : -1
+id : 15, Iron Ore, cv : -1
+id : 14, Gold Ore, cv : -1
+id : 4546, item.MagicItemXPstone.name, cv : -1
+id : 120, End Portal, cv : -1
+id : 106, Vines, cv : -1
+id : 4548&0, item.MagicalPotions.antidote.name, cv : -1
+id : 397&4, Creeper Head, cv : -1
+id : 397&0, Skeleton Skull, cv : -1
+id : 262, Arrow, cv : -1
+id : 384, Bottle o' Enchanting, cv : -1
+id : 26030, item.ml_vegcurry.name, cv : -1
+id : 26087, item.ml_wine_basic.name, cv : -1
+id : 26041, item.ml_masa.name, cv : -1
+id : 1523, tile.byzantine_brick_slab.name, cv : -1
+id : 1526&0, tile.ml_path_slab.0.name, cv : -1
+id : 1526&1, tile.ml_path_slab.1.name, cv : -1
+id : 1526&2, tile.ml_path_slab.2.name, cv : -1
+id : 1526&3, tile.ml_path_slab.3.name, cv : -1
+id : 1526&4, tile.ml_path_slab.4.name, cv : -1
+id : 1526&5, tile.ml_path_slab.5.name, cv : -1
+id : 1526&6, tile.ml_path_slab.6.name, cv : -1
+id : 1526&7, tile.ml_path_slab.7.name, cv : -1
+id : 1526&8, tile.ml_path_slab.8.name, cv : -1
+id : 1526&9, tile.ml_path_slab.9.name, cv : -1
+id : 1526&10, tile.ml_path_slab.10.name, cv : -1
+id : 1526&11, tile.ml_path_slab.11.name, cv : -1
+id : 1526&12, tile.ml_path_slab.12.name, cv : -1
+id : 1526&13, tile.ml_path_slab.13.name, cv : -1
+id : 1526&14, tile.ml_path_slab.14.name, cv : -1
+id : 1526&15, tile.ml_path_slab.15.name, cv : -1
+id : 29998&31, item.SC2large_chest_pane.name, cv : -1
+id : 29998&32, item.SC2huge_chest_pane.name, cv : -1
+id : 29998&61, item.SC2tank_pane.name, cv : -1
+id : 29998&62, item.SC2large_tank_pane.name, cv : -1
+id : 29998&63, item.SC2huge_tank_pane.name, cv : -1
+id : 29998&82, item.SC2galgadorian_wheels.name, cv : -1
+id : 910&0, item.SC2BlockStorage0.name, cv : -1
+id : 29998&22, item.SC2reinforced_metal.name, cv : -1
+id : 910&1, item.SC2BlockStorage1.name, cv : -1
+id : 29998&47, item.SC2galgadorian_metal.name, cv : -1
+id : 910&2, item.SC2BlockStorage2.name, cv : -1
+id : 29998&49, item.SC2enhanced_galgadorian_metal.name, cv : -1
+id : 3876&1, tile.icbm:spikes.1.name, cv : -1
+id : 139&0, Cobblestone Wall, cv : -1
+id : 67, Stone Stairs, cv : -1

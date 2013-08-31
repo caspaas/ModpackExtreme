@@ -1,0 +1,92 @@
+id : 260, Apple, cv : 64
+id : 393, Baked Potato, cv : 32
+id : 369, Blaze Rod, cv : 1024
+id : 352, Bone, cv : 60
+id : 336, Brick, cv : 2
+id : 39, Brown Mushroom, cv : 2
+id : 81, Cactus, cv : 12
+id : 391, Carrot, cv : 32
+id : 263&1, Charcoal, cv : 8
+id : 337, Clay, cv : 2
+id : 263, Coal, cv : 130
+id : 366, Cooked Chicken, cv : 48
+id : 350, Cooked Fish, cv : 16
+id : 320, Cooked Porkchop, cv : 64
+id : 37, Dandelion, cv : 2
+id : 264, Diamond, cv : 16384
+id : 3, Dirt, cv : 2
+id : 122, Dragon Egg, cv : 65536
+id : 344, Egg, cv : 32
+id : 388, Emerald, cv : 8192
+id : 403, Enchanted Book, cv : 1024
+id : 121, End Stone, cv : 2
+id : 368, Ender Pearl, cv : 1024
+id : 288, Feather, cv : 64
+id : 318, Flint, cv : 2
+id : 370, Ghast Tear, cv : 1024
+id : 20, Glass, cv : 2
+id : 348, Glowstone Dust, cv : 128
+id : 266, Gold Ingot, cv : 4096
+id : 2, Grass, cv : 2
+id : 13, Gravel, cv : 2
+id : 289, Gunpowder, cv : 128
+id : 79, Ice, cv : 2
+id : 351, Ink Sac, cv : 1
+id : 265, Iron Ingot, cv : 1024
+id : 351&4, Lapis Lazuli, cv : 256
+id : 10, Lava, cv : 452
+id : 11, Lava Still, cv : 452
+id : 334, Leather, cv : 64
+id : 111, Lily, cv : 1
+id : 17, Log, cv : 16
+id : 360, Melon Slice, cv : 64
+id : 335, Milk, cv : 3072
+id : 48, Mossy Cobblestone, cv : 12
+id : 2266, Music Disc 11, cv : 128
+id : 2256, Music Disc 13, cv : 128
+id : 2258, Music Disc Blocks, cv : 128
+id : 2257, Music Disc Cat, cv : 128
+id : 2259, Music Disc Chirp, cv : 128
+id : 2260, Music Disc Far, cv : 128
+id : 2261, Music Disc Mall, cv : 128
+id : 2262, Music Disc Mellohi, cv : 128
+id : 2263, Music Disc Stal, cv : 128
+id : 2264, Music Disc Strad, cv : 128
+id : 2267, Music Disc Wait, cv : 128
+id : 2265, Music Disc Ward, cv : 128
+id : 110, Mycelium, cv : 2
+id : 405, Nether Brick, cv : 1
+id : 113, Nether Fence, cv : 4
+id : 406, Nether Quartz, cv : 128
+id : 399, Nether Star, cv : 147456
+id : 87, Netherrack, cv : 1
+id : 372, Netherwort, cv : 16
+id : 49, Obsidian, cv : 64
+id : 394, Poisonous Potato, cv : 16
+id : 392, Potato, cv : 32
+id : 86, Pumpkin, cv : 64
+id : 363, Raw Beef, cv : 64
+id : 365, Raw Chicken, cv : 48
+id : 349, Raw Fish, cv : 16
+id : 319, Raw Porkchop, cv : 64
+id : 40, Red Mushroom, cv : 2
+id : 331, Redstone, cv : 128
+id : 38, Rose, cv : 2
+id : 367, Rotten Flesh, cv : 16
+id : 329, Saddle, cv : 1024
+id : 12, Sand, cv : 2
+id : 6, Sapling, cv : 1
+id : 295, Seeds, cv : 1
+id : 341, Slimeball, cv : 256
+id : 332, Snowball, cv : 1
+id : 88, Soul Sand, cv : 4
+id : 375, Spider Eye, cv : 32
+id : 364, Steak, cv : 64
+id : 1, Stone, cv : 2
+id : 98, Stone Brick, cv : 2
+id : 287, String, cv : 16
+id : 338, Sugar Cane, cv : 16
+id : 8, Water, cv : 52
+id : 9, Water Still, cv : 52
+id : 296, Wheat, cv : 32
+id : 387, Written Book, cv : 192
