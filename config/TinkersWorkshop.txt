@@ -7,10 +7,12 @@
 block {
     I:Aggregator=3221
     I:"Birch Barricade"=1483
+    I:"Casting Channel"=3249
     I:"Clear Glass"=3223
     I:"Clear Stained Glass"=3225
     I:"Clear Stained Glass Pane"=3229
     I:"Congealed Slime"=3237
+    I:"Crafting Slab"=3243
     I:"Crafting Station"=3233
     I:"Drying Rack"=3227
     I:"Essence Extractor"=3234
@@ -22,6 +24,7 @@ block {
     I:"Light Crystal"=3222
     I:"Liquid Blue Slime"=3235
     I:"Liquid Cow"=3217
+    I:"Meat Block"=3242
     I:"Metal Storage"=1478
     I:"Molten Aluminum"=3205
     I:"Molten Aluminum Brass"=3209
@@ -70,6 +73,8 @@ block {
     I:"Stone Torch"=1484
     I:"Tool Forge"=1468
     I:"Wood Tool Station"=1471
+    I:"Wool Slab 1"=3244
+    I:"Wool Slab 2"=3245
 }
 
 
@@ -122,6 +127,16 @@ equipables {
 
 general {
     I:"Sea level"=64
+}
+
+
+####################
+# looks
+####################
+
+looks {
+    # 0 = disabled, 1 = enabled, 2 = enabled + ignore stained glass meta
+    B:"Connected Textures Enabled"=true
 }
 
 
@@ -276,7 +291,7 @@ worldgen {
     I:"Iron Surface Rarity"=400
     I:"Nether Ores Density"=8
     I:"Silver Bush Density"=1
-    I:"Slime Island Rarity"=450
+    I:"Slime Island Rarity"=1450
     I:"Tin Bush Density"=2
     I:"Tin Bush Max Y"=40
     I:"Tin Bush Min Y"=0
